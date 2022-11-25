@@ -1,2 +1,5 @@
-# DOTEbase-beta-testing
-A private repo for beta-testers of DOTEbase that contains the GitHub pages and releases
+# What is _DOTEbase_?
+
+_DOTEbase_ is our prototype software package that is designed to support qualitative analysis of large audio-visual data sets.
+
+

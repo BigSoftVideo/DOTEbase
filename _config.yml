@@ -1,0 +1,22 @@
+theme: jekyll-theme-architect
+title: Guide for DOTEbase users
+description: DOTEbase is a package to support qualitative research based on video media and transcripts
+URL: "https://bigsoftvideo.github.io/DOTEbase-beta-testing"
+image: "/images/logo.png"
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - contributing.md
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
