@@ -11,14 +11,14 @@ _DOTEbase_ can be installed on the Microsoft Windows and Apple macOS desktop pla
 ### _DOTEbase_ Lego demo workspace
 
 
-### Help pages on using _DOTE_
+### Help pages on using _DOTEbase_
 
 Here is a list of help tutorials on specific topics:
 
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
 - [Glossary of key terms](glossary.md) - what you need to know
 
-### Browse our _DOTE_ video tutorials <a id='tutorials'></a>
+### Browse our _DOTEbase_ video tutorials <a id='tutorials'></a>
 
 We have made a bunch of [video tutorials](tutorials.md) you can view to learn how to use _DOTE_.
 
