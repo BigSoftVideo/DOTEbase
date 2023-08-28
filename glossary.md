@@ -13,10 +13,48 @@ An Annotation is...
 
 A Clip is...
 
+### Clip Collection <a id=''>clip-collection</a>
+
+A Clip Collection is...
+
+### Comment <a id='comment'></a>
+
+A Comment is...
+
+### Crawl <a id='crawl'></a>
+
+A Crawl is...
+
+### DOTE Project <a id='dote-project'></a>
+
+A DOTE Project is...
+
+### DOTE Transcript <a id='dote-transcript'></a>
+
+A DOTE Transcript is...
+
 ### DOTEspace  <a id='workspace'></a>
 
 A DOTEspace is a workspace for...
 
+### License <a id='license'></a>
+
+A License is...
+
 ### Tag <a id='tag'></a>
 
 A Tag is...
+
+### Virtual Table Top <a id=''>tabletop</a>
+
+A Virtual Table Top is...
+
+### Watch Folder <a id='watch-folder'></a>
+
+A Watch Folder is...
+
+
+
+###  <a id=''></a>
+
+A  is...
