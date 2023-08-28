@@ -10,6 +10,10 @@ _DOTEbase_ can be installed on the Microsoft Windows and Apple macOS desktop pla
 
 ### _DOTEbase_ Lego demo workspace
 
+We have assembled a simple DOTEspace based on our legendary Lego Demo Project, which we originally made for _DOTE_.
+See the _DOTE_ version here: 
+
+You can download the full Lego Demo DOTEspace, including DOTE projects/transcripts, here:
 
 ### Help pages on using _DOTEbase_
 
@@ -43,4 +47,4 @@ Please [submit a suggestion](https://github.com/BigSoftVideo/DOTEbase-beta-testi
 
 ### Using our _DISCORD_ server
 
-Join our Discord server and we will assign you to the private channels for beta-testers: [Discord server](https://discord.gg/8BmuHP7xh4).
+If you haven't already, please join our BigVideo Discord server and we will assign you to the private channels for beta-testers: [Discord server](https://discord.gg/8BmuHP7xh4).
