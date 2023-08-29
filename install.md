@@ -1,12 +1,12 @@
 ## How to download and install _DOTEbase
 
-_DOTEbase_is a desktop application that runs on your local computer.
-It is very easy to download and install the software and run it on the Windows and Mac desktop platforms.
+_DOTEbase_ is a desktop application that runs on your local computer.
+It is very easy to download, install the software and run it on the Windows and Mac desktop platforms.
 It should run on the latest versions of Microsoft Windows 10 or 11 and also Apple macOS (10.10 Yosemite or later; also macOS 12 for the newer Apple Silicon M-series).
-Let us know if you have a problem installing and running_DOTEbase_on these platforms.
+Let us know if you have a problem installing and running _DOTEbase_ on these platforms.
 Theoretically, it should also run on Linux, but we don't support this.
-Contact us if you are interested in using_DOTEbase_on this platform.
-Note that only one instance of_DOTEbase_ is allowed to run at the same time.
+Contact us if you are interested in using _DOTEbase_ on this platform.
+Note that only one instance of _DOTEbase_ is allowed to run at the same time.
 
 Choose the latest version for your operating system from our [Webshop](https://www.dote.aau.dk/downloads) or you can browse archived [releases](https://github.com/BigSoftVideo/DOTEbase/releases) on our _DOTEbase_ GitHib repository.
 
@@ -70,8 +70,9 @@ Refer to DOTE's help guide for more information.
 ### _DOTEbase_ license key
 
 You will need to purchase and enter a _DOTE Pro/Pro Community_ [license key](license.md#license) to unlock _DOTEbase_.
+_DOTEbase_ does not have its own license key.
 
-Then follow the [activation instructions](license.md) for _DOTEbase_.
+Follow the [activation instructions](license.md) for _DOTEbase_.
 
 ### Updating to a new release
 
@@ -81,4 +82,5 @@ It is up to you to manually download the new release and install it.
 To update _DOTEbase_ on both operating systems, just close _DOTEbase_, download the update and follow the same procedure above.
 _DOTEbase_ will be updated and restart automatically.
 
+NOTE: It is best to close _DOTEbase_ and _DOTE_ prior to updating either software.
 _
