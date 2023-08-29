@@ -13,18 +13,26 @@ _DOTEbase_ can be installed on the Microsoft Windows and Apple macOS desktop pla
 We have assembled a simple DOTEspace based on our legendary Lego Demo Project, which we originally made for _DOTE_.
 See the _DOTE_ version here: 
 
-You can download the full Lego Demo DOTEspace, including DOTE projects/transcripts, here:
+You can download the full _Lego Demo DOTEspace_, including the necessary native _DOTE_ projects/transcripts, here:
 
 ### Help pages on using _DOTEbase_
 
 Here is a list of help tutorials on specific topics:
 
+- [Installing DOTEbase](install.md)
+- [DOTEspace](dotespace.md)
+- []()
+- [Clips](clips.md)
+- [Clip Collections](clip-collections.md)
+- [Tags](tags.md)
+- [Comments](comment.md)
+- [Virtual Table Top](vtt.md)
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
 - [Glossary of key terms](glossary.md) - what you need to know
 
 ### Browse our _DOTEbase_ video tutorials <a id='tutorials'></a>
 
-We have made a bunch of [video tutorials](tutorials.md) you can view to learn how to use _DOTE_.
+We have made a bunch of [video tutorials](tutorials.md) you can view to learn how to use _DOTEbase_.
 
 ### User bug reports
 
