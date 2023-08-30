@@ -5,6 +5,10 @@ See our [online help guide for _DOTE_](https://bigsoftvideo.github.io/DOTE/), wh
 
 Below is a list of key terms in alphabetical order with short definitions and links to relevant help pages for more information.
 
+### Active Media <a id='active'></a>
+
+When a media file or a transcript in a _DOTEspace_ are selected for display, then the media becomes active and is displayed in the [Video](#video) panel.
+
 ### Annotation <a id='annotation'></a>
 
 An Annotation is a plain text note about a specific [Clip](#clip). 
@@ -58,6 +62,13 @@ A DOTEspace is a workspace for working on thematically organised sets of DOTE pr
 A License is an encrypted file that is used to authenticate the user of _DOTEbase_ (as a purchaser of _DOTE_).
 Without a valid license, _DOTEbase_ cannot be used.
 
+### Line number <a id='line-number'></a>
+
+Line Numbers are inherited from _DOTE_.
+They are the abstract Line Numbers displayed in _DOTE_'s Transcript Editor.
+A temporary, unique number is assigned in ascending order to each and every line.
+It is not the same as the line numbering after exporting a transcript into RTF, for example.
+
 ### Media Clip <a id='clips.md#media'></a>
 
 A Media Clip saves the IN and OUT points of a segment in an audio or video file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
@@ -67,11 +78,9 @@ A Media Clip saves the IN and OUT points of a segment in an audio or video file 
 A Tag is a short, thematic text string that can be assigned to any [Clip](#clip).
 Tags are searchable and autocompleteable.
 
-### Transcript Clip <a id='clips.md#transcript'></a>
+### Timecode (or Timestamp) <a id='timecode'></a>
 
-A Transcript Clip saves the starting character/line and ending character/line in a transcript file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
-
-Transcript Clips can be assigned a specific shape and line/box colour.
+A Timecode is a temporal reference to a specific moment in a playable media file, starting at 0:00:00.0 `[hour:min:sec.tenth_of_sec]`.
 
 ### Timeline <a id='timeline'></a>
 
@@ -79,12 +88,39 @@ The Timeline is a linear graphical representation of time passed in a specific [
 
 See [Waveform](#waveform).
 
+### Transcript Clip <a id='clips.md#transcript'></a>
+
+A Transcript Clip saves the starting character/line and ending character/line in a transcript file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
+
+Transcript Clips can be assigned a specific shape and line/box colour.
+
+### Unicode <a id='unicode'></a>
+
+[Unicode](https://home.unicode.org) is a global standard for representing languages, symbols and emojis.
+
 ### User-defined Field <a id='user-defined'></a>
 
 A User-defined Field is a special field that a user can define and assign to any [Clip](#clip).
 It has a name and a value.
 For example, the name could be defined in terms of a phenomenon, and a set of values used that qualify that phenomenon or a boolean value (yes/no) that can record if it is present or not in the Clip.
 User-defined Fields are searchable.
+
+### User Interface (UI) <a id='ui'></a>
+
+The [User Interface](ui.md) is the visual (and aural) presentation of the computer application to the user.
+
+### Video-cue <a id='video-cue'></a>
+
+A [Video-cue](cues.md) in _DOTE_ is a unique point on the [Timeline](timeline.md) that indicates that a change in the [Viewport](#viewport) of a [Video Panel](video.md) is to be performed.
+This function automates the presentation of media during [Playback](play.md) in a more cinematic fashion.
+
+### Viewport <a id='viewport'></a>
+
+The Viewport is the rectangular portion of the video that is currently visible in the frame of the [Video Panel](#video-panel).
+
+### Warnings and Errors <a id='error'></a>
+
+_DOTEbase_ can flag [Warnings and Errors](errors.md) in the use of _DOTEbase_.
 
 ### Virtual Table Top <a id='tabletop'></a>
 
