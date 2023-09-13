@@ -69,7 +69,7 @@ Refer to DOTE's help guide for more information.
 
 ### _DOTEbase_ license key
 
-You will need to purchase and enter a _DOTE Pro/Pro Community_ [license key](license-activation.md) to unlock _DOTEbase_.
+You will need to purchase and enter a _DOTE Pro/Pro Community_ [license key](https://bigsoftvideo.github.io/DOTE/pro.html#license) to unlock _DOTEbase_.
 _DOTEbase_ does not have its own license key.
 
 Follow the [activation instructions](license-activation.md) for _DOTEbase_.
