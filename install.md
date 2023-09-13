@@ -69,10 +69,10 @@ Refer to DOTE's help guide for more information.
 
 ### _DOTEbase_ license key
 
-You will need to purchase and enter a _DOTE Pro/Pro Community_ [license key](license.md#license) to unlock _DOTEbase_.
+You will need to purchase and enter a _DOTE Pro/Pro Community_ [license key](license-activation.md#license) to unlock _DOTEbase_.
 _DOTEbase_ does not have its own license key.
 
-Follow the [activation instructions](license.md) for _DOTEbase_.
+Follow the [activation instructions](license-activation.md) for _DOTEbase_.
 
 ### Updating to a new release
 
