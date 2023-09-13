@@ -30,7 +30,7 @@ If you purchase _DOTE_, then _DOTEbase_ is free.
 If you have already purchased _DOTE_ before _DOTEbase_ was released, then it is free.
 _DOTEbase_ is a standalone software package, but it relies entirely on _DOTE_.
 
-See the instructions to [register _DOTEbase_ using your _DOTE_ license](license.md).
+See the instructions to register _DOTEbase_ using your _DOTE_ [license](license.md).
 
 ### How do I get help?
 
