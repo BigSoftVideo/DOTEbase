@@ -28,7 +28,9 @@ Here is a list of help tutorials on specific topics:
 - [Collections Browser](collections-browser.md)
 - [Tags](tags.md)
 - [Comments](comments.md)
+- [Search](search.md)
 - [Virtual Table Top](vtt.md)
+- [Export and Import](export.md)
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
 - [Glossary of key terms](glossary.md) - what you need to know
 

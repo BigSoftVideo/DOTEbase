@@ -57,6 +57,17 @@ It is a specific textual object that is contained within a [DOTE Project](#dote-
 
 A DOTEspace is a workspace for working on thematically organised sets of DOTE projects and transcripts that are distributed across your file system.
 
+### Export <a id='export'></a>
+
+A single DOTEspace can be Exported in order to archive or share that DOTEspace with someone else.
+
+See [Import](#import).
+
+### Import <a id='import'></a>
+
+A single DOTEspace can be imported into _DOTEbase_.
+To do so, a DOTEspace has to [Exported](#export) from _DOTEbase_ into a `.dotebase` file, which can be shared or archived.
+
 ### License <a id='license'></a>
 
 A License is an encrypted file that is used to authenticate the user of _DOTEbase_ (as a purchaser of _DOTE_).
@@ -108,6 +119,12 @@ User-defined Fields are searchable.
 ### User Interface (UI) <a id='ui'></a>
 
 The [User Interface](ui.md) is the visual (and aural) presentation of the computer application to the user.
+
+## Video panel <a id='video-panel'></a>
+
+The video panel displays a viewport of the selected or cued media file that matches the DOTE transcript and/or project that is currently active.
+If toggled, the video panel tracks the original video-cues in the referenced DOTE transcript and project.
+As the media stream plays in the DOTE project, the video and pan/zoom will match that
 
 ### Video-cue <a id='video-cue'></a>
 
