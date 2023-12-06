@@ -23,13 +23,16 @@ Here is a list of help tutorials on specific topics:
 - [DOTEspaces](dotespace.md)
     - [Demo DOTEspace](demo.md)
 - [DOTE Projects and Transcripts](dote.md)
+- [Media Player](media-player.md)
 - [Clips](clips.md)
+- [Clips Organiser](clips-organiser.md)
 - [Clip Collections](clip-collections.md)
 - [Collections Browser](collections-browser.md)
+- [Media Clips Organiser](media-clips-organiser.md)
 - [Tags](tags.md)
 - [Comments](comments.md)
 - [Search](search.md)
-- [Virtual Table Top](vtt.md)
+- [Canvas](canvas.md)
 - [Export and Import](export.md)
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
 - [Glossary of key terms](glossary.md) - what you need to know

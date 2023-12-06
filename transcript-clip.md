@@ -1,2 +1,2 @@
-## Transcript Clips
+## How to make Transcript Clips
 

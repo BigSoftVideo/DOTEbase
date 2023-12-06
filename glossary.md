@@ -11,7 +11,13 @@ When a media file or a transcript in a _DOTEspace_ are selected for display, the
 
 ### Annotation <a id='annotation'></a>
 
-An Annotation is a plain text note about a specific [Clip](#clip). 
+An Annotation is a plain text note about a specific [Clip](#clip).
+
+### Canvas <a id='tabletop'></a>
+
+A Canvas is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
+For example, representations of [Transcript Clips](#transcript-clip), [Media Clips](#media-clip), [Tags](#tag), [Clip Collections](#clip-collection), etc. can be dragged and dropped onto the independent Canvas.
+Relationships between objects can be constructed out of a set of basic lines and borders.
 
 ### Clip <a id='clip'></a>
 
@@ -84,6 +90,14 @@ It is not the same as the line numbering after exporting a transcript into RTF, 
 
 A Media Clip saves the IN and OUT points of a segment in an audio or video file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
 
+Media Clips are also known as M-Clips.
+
+## Media Player <a id='video-panel'></a>
+
+The Media Player displays a viewport of the selected or cued media file that matches the DOTE transcript and/or project that is currently active.
+If selected using the toggle, the video panel tracks the original video-cues in the referenced DOTE transcript and project.
+As the media stream plays in the DOTE project, the video and pan/zoom will match that.
+
 ### Tag <a id='tag'></a>
 
 A Tag is a short, thematic text string that can be assigned to any [Clip](#clip).
@@ -105,6 +119,8 @@ A Transcript Clip saves the starting character/line and ending character/line in
 
 Transcript Clips can be assigned a specific shape and line/box colour.
 
+Transcript Clips are also known as T-Clips.
+
 ### Unicode <a id='unicode'></a>
 
 [Unicode](https://home.unicode.org) is a global standard for representing languages, symbols and emojis.
@@ -120,12 +136,6 @@ User-defined Fields are searchable.
 
 The [User Interface](ui.md) is the visual (and aural) presentation of the computer application to the user.
 
-## Video panel <a id='video-panel'></a>
-
-The video panel displays a viewport of the selected or cued media file that matches the DOTE transcript and/or project that is currently active.
-If toggled, the video panel tracks the original video-cues in the referenced DOTE transcript and project.
-As the media stream plays in the DOTE project, the video and pan/zoom will match that
-
 ### Video-cue <a id='video-cue'></a>
 
 A [Video-cue](cues.md) in _DOTE_ is a unique point on the [Timeline](timeline.md) that indicates that a change in the [Viewport](#viewport) of a [Video Panel](video.md) is to be performed.
@@ -138,12 +148,6 @@ The Viewport is the rectangular portion of the video that is currently visible i
 ### Warnings and Errors <a id='error'></a>
 
 _DOTEbase_ can flag [Warnings and Errors](errors.md) in the use of _DOTEbase_.
-
-### Virtual Table Top <a id='tabletop'></a>
-
-A Virtual Table Top (VTT) is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
-For example, representations of [Transcript Clips](#transcript-clip), [Media Clips](#media-clip), [Tags](#tag), [Clip Collections](#clip-collection), etc. can be dragged and dropped onto the independent VTT.
-Relationships between objects can be constructed out of a set of basic lines and borders.
 
 ### Watch Folder <a id='watch-folder'></a>
 
