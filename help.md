@@ -1,4 +1,4 @@
-## Help guide for _DOTEbase_ beta release v0.x
+## Help guide for _DOTEbase_ beta release v1.0.0-beta1
 
 This help guide provides you with instructions to get started with basic and more advanced tasks...
 
@@ -7,6 +7,7 @@ This help guide provides you with instructions to get started with basic and mor
 _DOTEbase_ can be installed on the Microsoft Windows and Apple macOS desktop platforms.
 
 - Please follow the [instructions to install, update or upgrade](install.md).
+- You will also need to update _DOTE_ to use a beta release that integrates with _DOTEbase_.
 
 ### _DOTEbase_ Lego demo workspace
 
@@ -20,15 +21,16 @@ You can download the full _Lego Demo DOTEspace_, including the necessary native 
 Here is a list of help tutorials on specific topics:
 
 - [Installing DOTEbase](install.md)
+    - [What is new in DOTE](new-dote.md)
 - [DOTEspaces](dotespace.md)
     - [Demo DOTEspace](demo.md)
 - [DOTE Projects and Transcripts](dote.md)
 - [Media Player](media-player.md)
 - [Clips](clips.md)
-- [Clips Organiser](clips-organiser.md)
+- [Project Clips Viewer](clips-viewer.md)
+- [Media Clips Organiser](media-clips-organiser.md)
 - [Clip Collections](clip-collections.md)
 - [Collections Browser](collections-browser.md)
-- [Media Clips Organiser](media-clips-organiser.md)
 - [Tags](tags.md)
 - [Comments](comments.md)
 - [Search](search.md)
