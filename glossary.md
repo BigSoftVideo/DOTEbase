@@ -97,7 +97,7 @@ Media Clips are also known as M-Clips.
 The Media Clips Organiser is a tool to visually arrange and order [Media Clips](#media-clip) created in _DOTEbase_.
 M-clips can be assigned to [Tiers](#tier).
 
-## Media Player <a id='video-panel'></a>
+### Media Player <a id='video-panel'></a>
 
 The Media Player displays a viewport of the selected or cued media file that matches the _DOTE_ Transcript and/or Project that is currently active.
 If selected using the toggle, the video panel can track the original [video-cues](#video-cue) in the referenced _DOTE_ Transcript and Project.

@@ -26,7 +26,7 @@ In _DOTE_ itself, one can just start transcribing from scratch and add Transcrip
 All of these Clips will be available in _DOTEbase_ when a DOTEspace is created later.
 One can make repeated passes over the emerging transcripts to add more and more Transcript Clips.
 
-### Making comments on students' transcripts in DOTE
+### Making comments on students' transcripts in _DOTE_
 
 A simple use case without _DOTEbase_ is to add comments using Transcript Clips to students' attempts to transcribe using DOTE.
 Just have the student(s) export their Project and/or Transcript and share it.
@@ -35,8 +35,9 @@ When finished, export the Transcript and share it with the student.
 Transcript Clips are viewable (read only) even to users of the free Edition of _DOTE_.
 One might also make changes and edits to the transcript, but then [Checkpoints] are a better way of tracking precise changes in _DOTE_.
 
-### Keeping track of students' transcripts in DOTEbase
+### Keeping track of students' transcripts in _DOTEbase_
 
 An extension of the previous strategy is to use _DOTEbase_ to keep track of all the Transcript Clip notes made about a cohort of students' transcripts that were marked up in _DOTE_.
 A teacher can use _DOTEbase_ to create a DOTEspace that includes all of the students' transcripts and search for patterns across all the students' work, and use it to present the students' work in class.
-For example, the teacher can have multiple transcripts open at the same time by difference students and/or the teacher for comparison.
+For example, the teacher can have multiple transcripts open at the same time by different students and/or the teacher for comparison.
+And the teacher could search Clips for specific comments they made and view the transcript lines in every search result.
