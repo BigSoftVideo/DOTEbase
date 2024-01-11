@@ -5,7 +5,7 @@ There several classic ways that _DOTEbase_ can support working qualitatively wit
 ### Getting a grip on an audio-visual corpus of data recordings
 
 Often when confronted with a new set of data recordings, one can be overwhelmed.
-One of the key reasons we developed _DOTEbase_, was to be able to start to make sense of a large corpus of audio and video recordings of an event.
+One of the key reasons we developed _DOTEbase_ was to be able to start to make sense of a large corpus of audio and video recordings of an event.
 To start at the beginning, one can work with the audio-visual media and make notes using Media Clips on anything noticeable as one wades through the corpus, watching hours and hours of recorded data.
 
 ### Transitioning from the audio-visual data to transcribing
@@ -34,3 +34,9 @@ Import the Project and/or Transcript into _DOTE_ and add as many Transcript Clip
 When finished, export the Transcript and share it with the student.
 Transcript Clips are viewable (read only) even to users of the free Edition of _DOTE_.
 One might also make changes and edits to the transcript, but then [Checkpoints] are a better way of tracking precise changes in _DOTE_.
+
+### Keeping track of students' transcripts in DOTEbase
+
+An extension of the previous strategy is to use _DOTEbase_ to keep track of all the Transcript Clip notes made about a cohort of students' transcripts that were marked up in _DOTE_.
+A teacher can use _DOTEbase_ to create a DOTEspace that includes all of the students' transcripts and search for patterns across all the students' work, and use it to present the students' work in class.
+For example, the teacher can have multiple transcripts open at the same time by difference students and/or the teacher for comparison.
