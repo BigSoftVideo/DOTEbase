@@ -26,9 +26,11 @@ And the name associated with the license will appear in the title bar of the app
 
 #### Notes
 
-- One _DOTEbase_ license can unlock up to three different computers (slots) owned by that user.
-The same license file is used to unlock each device.
-- If all three slots are full, then one slot will have to be released so that a new computer can receive that free slot.
+- One _DOTE_ license can unlock _DOTEbase_ on one computer owned by that user.
+- The same license file is used to unlock an extra device attached to your _DOTE_ license.
+- Normally, users are allowed to install _DOTE_ on up to 3 devices.
+_DOTEbase_ will take one of those device slots.
+- If all three license slots are full, then one slot will have to be released so that _DOTEbase_ can receive that free slot.
 You can release a device that has a license key already installed.
 Open _DOTEbase_ and go to `File/About/License Manager` and select `Release License`.
 If all your device slots are full, and you cannot unregister any of the devices because they are unavailable, then contact us explaining the situation (dote-license@id.aau.dk).
