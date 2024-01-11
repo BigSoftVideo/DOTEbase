@@ -7,17 +7,17 @@ Below is a list of key terms in alphabetical order with short definitions and li
 
 ### Active Media <a id='active'></a>
 
-When a media file or a transcript in a _DOTEspace_ are selected for display, then the media becomes active and is displayed in the [Video](#video) panel.
+When a media file or a transcript in a _DOTEspace_ are selected for display, then the media becomes active and is displayed in the [Media Player](#media-player) panel.
 
 ### Annotation <a id='annotation'></a>
 
-An Annotation is a plain text note about a specific [Clip](#clip).
+An Annotation is a plain text note called a [Comment](#comment) about a specific [Clip](#clip).
 
 ### Canvas <a id='tabletop'></a>
 
 A Canvas is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
 For example, representations of [Transcript Clips](#transcript-clip), [Media Clips](#media-clip), [Tags](#tag), [Clip Collections](#clip-collection), etc. can be dragged and dropped onto the independent Canvas.
-Relationships between objects can be constructed out of a set of basic lines and borders.
+Relationships between objects can be constructed using a basic set of icons, arrowheads, lines and borders.
 
 ### Clip <a id='clip'></a>
 
@@ -86,22 +86,35 @@ They are the abstract Line Numbers displayed in _DOTE_'s Transcript Editor.
 A temporary, unique number is assigned in ascending order to each and every line.
 It is not the same as the line numbering after exporting a transcript into RTF, for example.
 
-### Media Clip <a id='clips.md#media'></a>
+### Media Clip <a id='media-clip'></a>
 
 A Media Clip saves the IN and OUT points of a segment in an audio or video file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
 
 Media Clips are also known as M-Clips.
 
+### Media Clips Organiser <a id='media-clips-organiser'></a>
+
+The Media Clips Organiser is a tool to visually arrange and order [Media Clips](#media-clip) created in _DOTEbase_.
+M-clips can be assigned to [Tiers](#tier).
+
 ## Media Player <a id='video-panel'></a>
 
-The Media Player displays a viewport of the selected or cued media file that matches the DOTE transcript and/or project that is currently active.
-If selected using the toggle, the video panel tracks the original video-cues in the referenced DOTE transcript and project.
-As the media stream plays in the DOTE project, the video and pan/zoom will match that.
+The Media Player displays a viewport of the selected or cued media file that matches the _DOTE_ Transcript and/or Project that is currently active.
+If selected using the toggle, the video panel can track the original [video-cues](#video-cue) in the referenced _DOTE_ Transcript and Project.
+As the media stream plays in the _DOTE_ project, the video and pan/zoom will match that cue.
+An alternative view is to take the last SAVED view when using _DOTE_ to view the media in the Project.
+And a third alternative is a DOTEbase only saved view of the current video in the current Project.
 
 ### Tag <a id='tag'></a>
 
 A Tag is a short, thematic text string that can be assigned to any [Clip](#clip).
 Tags are searchable and autocompleteable.
+
+### Tier <a id='tier'></a>
+
+Tiers and subtiers are usually found in transcripts, but in _DOTEbase_ Media Clips can be organised on their own Tiers.
+Tiers can be created, renamed and colour coded.
+Media Clips can be dragged between Tiers.
 
 ### Timecode (or Timestamp) <a id='timecode'></a>
 
@@ -138,12 +151,12 @@ The [User Interface](ui.md) is the visual (and aural) presentation of the comput
 
 ### Video-cue <a id='video-cue'></a>
 
-A [Video-cue](cues.md) in _DOTE_ is a unique point on the [Timeline](timeline.md) that indicates that a change in the [Viewport](#viewport) of a [Video Panel](video.md) is to be performed.
+A [Video-cue](cues.md) in _DOTE_ is a unique point on the [Timeline](timeline.md) that indicates that a change in the [Viewport](#viewport) of the video in the  [Media Player](#media-player) is to be performed.
 This function automates the presentation of media during [Playback](play.md) in a more cinematic fashion.
 
 ### Viewport <a id='viewport'></a>
 
-The Viewport is the rectangular portion of the video that is currently visible in the frame of the [Video Panel](#video-panel).
+The Viewport is the rectangular portion of the video that is currently visible in the frame of the [Media Player Panel](#media-player).
 
 ### Warnings and Errors <a id='error'></a>
 

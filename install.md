@@ -65,7 +65,7 @@ This is a local problem with how your computer has been setup by a security cons
 
 _DOTEbase_ relies on _DOTE_ to create audio waveforms when a project/transcript is created and video/audio files are imported.
 
-Refer to DOTE's help guide for more information. 
+Refer to _DOTE_'s help guide for more information. 
 
 ### _DOTEbase_ license key
 
