@@ -13,12 +13,18 @@ To start at the beginning, one can work with the audio-visual media and make not
 An extension of the previous strategy is to make a first pass through the audio-visual archive, identifying interesting fragments via Media Clips.
 When enough of a picture of interesting phenomena has been established, then one can open the blank transcripts created in _DOTE_ and start transcribing the relevant passages marked by the generated Media Clips.
 
-### Adding a bunch of disparate already created transcripts (and their media sources) to a DOTEspace
+### Adding a bunch of already created transcripts to a DOTEspace
 
 Another research methodology is to collect recordings from disparate social events and to find patterns across all instances of something very broad, such as everyday conversation, or more narrow, such as doctor-patient interaction.
 _DOTEbase_ supports this, too.
-A team could create and edit transcripts on a broad range of cases, then assemble all the DOTE projects/transcripts into a common archive and create a DOTEspace that includes them all.
 New audio-visual data and/or transcripts can be added to the DOTEspace at any time.
+
+### Working as a team with _DOTEbase_
+
+Because _DOTE_ Transcripts are local, and Media and Transcript Clips are stored locally, they can be worked on in a distributed fashion.
+A team could create and edit transcripts on a broad range of cases, then assemble all the DOTE projects/transcripts into a common archive and create a DOTEspace that includes them all.
+In fact, a team could work on individual DOTEspaces, or a common DOTEspace that has been shared, and create Media Clips independently.
+If all those _DOTE_ Projects across the team are then pooled together in a common DOTEspace, then all the Media Clips (and Transcript Clips) would be integrated into one DOTEspace.
 When any team of researchers are creating Clips (both Transcript and Media) a common frame of reference for tagging may be desirable.
 _DOTEbase_ will compile all tags found in a DOTEspace, so the set of all tags may grow exponentially when there is little structure in common.
 This is _not_ to argue for constructivst coding as a qualitative research methodology. 
