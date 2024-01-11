@@ -23,8 +23,8 @@ Here is a list of help tutorials on specific topics:
 - [Installing DOTEbase](install.md)
     - [What is new in DOTE](new-dote.md)
 - [DOTEspaces](dotespace.md)
-    - [Demo DOTEspace](demo.md
-- [How to use DOTEbase](usage.md) 
+    - [Demo DOTEspace](demo.md)
+- [How to use DOTEbase](usage.md)
 - [DOTE Projects and Transcripts](dote.md)
 - [Media Player](media-player.md)
 - [Clips](clips.md)
