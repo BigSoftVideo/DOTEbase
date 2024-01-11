@@ -7,7 +7,7 @@ The main changes are as follows:
 1. Support for creating, viewing and deleting Transcript Clips in the Transcript panel.
 2. Support for importing and exporting Transcripts and Projects with Transcript Clips.
 3. Support for importing and exporting Projects with Media Clips.
-Note that Media Clips are not viewable in _DOTE_, only in _DOTEbase_, but the data is stored in each Project.
+Note that Media Clips are not viewable in _DOTE_, only in _DOTEbase_, but the meta-data is still stored in each Project.
 
 Users of the Free edition of _DOTE_ will only be able to view Transcript Clips that others have made and shared with them.
 

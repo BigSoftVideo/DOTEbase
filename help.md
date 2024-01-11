@@ -23,7 +23,8 @@ Here is a list of help tutorials on specific topics:
 - [Installing DOTEbase](install.md)
     - [What is new in DOTE](new-dote.md)
 - [DOTEspaces](dotespace.md)
-    - [Demo DOTEspace](demo.md)
+    - [Demo DOTEspace](demo.md
+- [How to use DOTEbase](usage.md) 
 - [DOTE Projects and Transcripts](dote.md)
 - [Media Player](media-player.md)
 - [Clips](clips.md)
@@ -35,7 +36,7 @@ Here is a list of help tutorials on specific topics:
 - [Comments](comments.md)
 - [Search](search.md)
 - [Canvas](canvas.md)
-- [Export and Import](export.md)
+- [Export and Import a DOTEspace](export.md)
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
 - [Glossary of key terms](glossary.md) - what you need to know
 
