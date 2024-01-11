@@ -19,12 +19,22 @@ Another research methodology is to collect recordings from disparate social even
 _DOTEbase_ supports this, too.
 A team could create and edit transcripts on a broad range of cases, then assemble all the DOTE projects/transcripts into a common archive and create a DOTEspace that includes them all.
 New audio-visual data and/or transcripts can be added to the DOTEspace at any time.
+When any team of researchers are creating Clips (both Transcript and Media) a common frame of reference for tagging may be desirable.
+_DOTEbase_ will compile all tags found in a DOTEspace, so the set of all tags may grow exponentially when there is little structure in common.
+This is _not_ to argue for constructivst coding as a qualitative research methodology. 
 
 ### Making notes while transcribing (and after)
 
 In _DOTE_ itself, one can just start transcribing from scratch and add Transcript Clips as one notices specific phenomena or incidents.
 All of these Clips will be available in _DOTEbase_ when a DOTEspace is created later.
 One can make repeated passes over the emerging transcripts to add more and more Transcript Clips.
+
+### Using the Canvas to visualise the corpus and emerging phenomena
+
+Once Media and/or Transcript Clips are being created, the canvas can be used to visualise relationships between Clips in a DOTEspace.
+One can mind map loose connections between instances or sets of phenomena represented by the clips and their tags/notes.
+Much like mind-mapping, the Canvas offers a broad range of line types, arrowheads, colours and boxes (as well as icons/emojis) to symbolise elements and relationships.
+Clips can be dragged around the canvas and clustered/linked/boxed together.
 
 ### Making comments on students' transcripts in _DOTE_
 
