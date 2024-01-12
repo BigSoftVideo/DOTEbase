@@ -5,15 +5,21 @@ See our [online help guide for _DOTE_](https://bigsoftvideo.github.io/DOTE/), wh
 
 Below is a list of key terms in alphabetical order with short definitions and links to relevant help pages for more information.
 
-### Active Media <a id='active'></a>
+### Active Media <a id='active-media'></a>
 
 When a media file or a transcript in a _DOTEspace_ are selected for display, then the media becomes active and is displayed in the [Media Player](#media-player) panel.
+
+### Active Transcript <a id='active-transcript'></a>
+
+When a [Transcript panel](#transcript-panel) is set as Active, then when a new [Transcript](#transcript) is viewed that Transcript is displayed in the active transcript panel.
+Multiple transcript panels can be open at the same time, so one needs to select which one is currently Active.
+As a result, the others are unactivated.
 
 ### Annotation <a id='annotation'></a>
 
 An Annotation is a plain text note called a [Comment](#comment) about a specific [Clip](#clip).
 
-### Canvas <a id='tabletop'></a>
+### Canvas <a id='canvas'></a>
 
 A Canvas is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
 For example, representations of [Transcript Clips](#transcript-clip), [Media Clips](#media-clip), [Tags](#tag), [Clip Collections](#clip-collection), etc. can be dragged and dropped onto the independent Canvas.
@@ -126,6 +132,11 @@ The Timeline is a linear graphical representation of time passed in a specific [
 
 See [Waveform](#waveform).
 
+### Transcript <a id='transcript'></a>
+
+A Transcript is a textual document that represents a transcribed version of an event captured in audio-visual media.
+Transcripts are created in DOTE and are viewable in [DOTEspace](#dotespace) if the _DOTE_ Project/Transcript is included in the scope of the DOTEspace watch folder(s).
+
 ### Transcript Clip <a id='clips.md#transcript'></a>
 
 A Transcript Clip saves the starting character/line and ending character/line in a transcript file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
@@ -133,6 +144,10 @@ A Transcript Clip saves the starting character/line and ending character/line in
 Transcript Clips can be assigned a specific shape and line/box colour.
 
 Transcript Clips are also known as T-Clips.
+
+### Transcript panel <a id='transcript-panel'></a>
+
+In a [DOTEspace](#dotespace), a Transcript panel displays any [Transcript](#transcript) document that has been created and edited in _DOTE_.
 
 ### Unicode <a id='unicode'></a>
 
