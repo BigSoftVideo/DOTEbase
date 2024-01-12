@@ -24,7 +24,7 @@ Here is a list of help tutorials on specific topics:
     - [What is new in DOTE](new-dote.md)
 - [DOTEspaces](dotespace.md)
     - [Demo DOTEspace](demo.md)
-- [How to use DOTEbase](usage.md)
+- [How to use DOTEbase](use-cases.md)
 - [DOTE Projects and Transcripts](dote.md)
 - [Media Player](media-player.md)
 - [Clips](clips.md)
