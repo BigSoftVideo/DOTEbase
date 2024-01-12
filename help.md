@@ -20,23 +20,23 @@ You can download the full _Lego Demo DOTEspace_, including the necessary native 
 
 Here is a list of help tutorials on specific topics:
 
-- [Installing DOTEbase](install.md)
-    - [What is new in DOTE](new-dote.md)
-- [DOTEspaces](dotespace.md)
-    - [Demo DOTEspace](demo.md)
-- [How to use DOTEbase](use-cases.md)
-- [DOTE Projects and Transcripts](dote.md)
-- [Media Player](media-player.md)
-- [Clips](clips.md)
-- [Project Clips Viewer](clips-viewer.md)
-- [Media Clips Organiser](media-clips-organiser.md)
-- [Clip Collections](clip-collections.md)
-- [Collections Browser](collections-browser.md)
-- [Tags](tags.md)
-- [Comments](comments.md)
-- [Search](search.md)
-- [Canvas](canvas.md)
-- [Export and Import a DOTEspace](export.md)
+- [Installing _DOTEbase_](install.md) - setting up the software
+  - [What is new in DOTE](new-dote.md) - DOTE has changed, too
+- [DOTEspaces](dotespace.md) - the flexible core concept
+  - [Lego Demo DOTEspace](demo.md) - a demo to illustrate features
+- [How to use _DOTEbase_](use-cases.md) - ideas to get started
+- [_DOTE_ Projects and Transcripts](dote.md) - _DOTE_ still does the heavy lifting
+- [Media Player](media-player.md) - playing media sources
+- [Clips](clips.md) - clipping for everyone
+- [Project Clips Viewer](clips-viewer.md) - what clips have I made
+- [Media Clips Organiser](media-clips-organiser.md) - clipping your media
+- [Clip Collections](clip-collections.md) - fun collections of clips
+- [Collections Browser](collections-browser.md) - organising all your clip collections
+- [Tags](tags.md) - tagging for everyone
+- [Comments](comments.md) - taking notes
+- [Search](search.md) - clever searching over all transcripts and clips
+- [Canvas](canvas.md) - visualising and mind mapping
+- [Export and Import a DOTEspace](export.md) - archiving and sharing your work
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
 - [Glossary of key terms](glossary.md) - what you need to know
 
