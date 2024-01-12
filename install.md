@@ -1,4 +1,4 @@
-## How to download and install _DOTEbase
+## How to download and install _DOTEbase_
 
 _DOTEbase_ is a desktop application that runs on your local computer.
 It is very easy to download, install the software and run it on the Windows and Mac desktop platforms.
@@ -8,7 +8,12 @@ Theoretically, it should also run on Linux, but we don't support this.
 Contact us if you are interested in using _DOTEbase_ on this platform.
 Note that only one instance of _DOTEbase_ is allowed to run at the same time.
 
-Choose the latest version for your operating system from our [Webshop](https://www.dote.aau.dk/downloads) or you can browse archived [releases](https://github.com/BigSoftVideo/DOTEbase/releases) on our _DOTEbase_ GitHib repository.
+Choose the latest version for your operating system from our [DOTEbase beta release GitHub repository](https://github.com/BigSoftVideo/DOTEbase-beta-testing/releases).
+You need to have an account on GitHub and that account be assigned to the repository for this link to work.
+Contact us on Discord if you have problems.
+
+You will also need to update _DOTE_ to a beta release.
+The current beta release is also listed for download on the GitHub site.
 
 - **Windows**
   - To install the Windows version, `double click` on the `EXE` file.
