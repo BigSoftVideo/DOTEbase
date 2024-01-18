@@ -111,6 +111,16 @@ As the media stream plays in the _DOTE_ project, the video and pan/zoom will mat
 An alternative view is to take the last SAVED view when using _DOTE_ to view the media in the Project.
 And a third alternative is a DOTEbase only saved view of the current video in the current Project.
 
+### Scope<a id='scope'></a>
+
+Different functions in DOTEbase work with different levels of data and meta-data.
+They have [Scope](scope.md) in which they operate.
+For example, [Search](#search) works over the current DOTEspace, yet the [Media Clips Organiser](#media-clips-organiser) displays Media Clips in the current one Project.
+
+### Search <a id='search'></a>
+
+_DOTEbase_ can search in a DOTEspace for a text string in a variety of data/meta-data.
+
 ### Tag <a id='tag'></a>
 
 A Tag is a short, thematic text string that can be assigned to any [Clip](#clip).
