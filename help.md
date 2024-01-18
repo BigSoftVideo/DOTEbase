@@ -23,7 +23,7 @@ Here is a list of help tutorials on specific topics:
 - [Installing _DOTEbase_](install.md) - setting up the software
   - [What is new in DOTE](new-dote.md) - DOTE has changed, too
 - [DOTEspaces](dotespace.md) - the flexible core concept
-  - [Scope of functions](scope.md) - just what data and meta-data is relevant
+  - [Scope](scope.md) - just what data and meta-data is relevant to each tool
   - [Lego Demo DOTEspace](demo.md) - a demo to illustrate features
 - [How to use _DOTEbase_](use-cases.md) - ideas to get started
 - [_DOTE_ Projects and Transcripts](dote.md) - _DOTE_ still does the heavy lifting
