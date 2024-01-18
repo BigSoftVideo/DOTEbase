@@ -22,11 +22,11 @@ The transcript it displays is the last one viewed in a _DOTE_ Project listed in 
 ### Media Player
 
 The [Media Player](media-player.md) only shows one media source at a time.
-Depending on the selected view mode, it displays one of the media sources in the current _DOTE_ Project that is open in _DOTEbase_.
+Depending on the selected view mode, it displays the relevant media source in the current _DOTE_ Project that is open in _DOTEbase_.
 
 ### Timeline
 
-The [Timeline](timeline.md) only shows the waveform for the currently open Project according to the options available for tracking audio sources.
+The [Timeline](timeline.md) only shows the waveform for the currently open Project according to the options selected for tracking audio and waveform sources.
 
 ### Media Clips Organiser
 
@@ -35,6 +35,7 @@ The [Media Clips Organiser](media-clips-organiser.md) shows all media clips in t
 ### Search
 
 The default [Search](search.md) is across the current DOTEspace only.
+One _cannot_ search across ALL DOTEspaces.
 
 ### Project Clips Viewer
 
@@ -43,14 +44,17 @@ The [Project Clips Viewer](clips-viewer.md) only shows [Transcript and Media Cli
 ### Collections Browser
 
 The [Collections Browser](collections-browser.md) shows all [Clip Collections](clip-collections.md) across all DOTEspaces.
+Cilp Collections can comprise clips from any DOTEspace.
 
 ### Collection Viewer
 
 The [Collection Viewer](collection-viewer.md) only shows clips in the currently selected [Clip Collection](clip-collections.md).
+Those Clips could originate from any DOTEspace.
 
 ### Canvas
 
 The [Canvas](canvas.md) operates at the level of one selected DOTEspace.
+Each DOTEspace has one Canvas assigned to it.
 
 ### Export/Import
 
