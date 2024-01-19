@@ -8,4 +8,8 @@ Remember that _DOTE_ works with discrete, temporal 'events', which means that al
 For example, one can include in a single DOTEspace video and audio recordings from multiple settings and research projects.
 All that is required, is that ALL media files are pre-processed by importing them into _DOTE_ Projects.
 
+The diagram below shows how DOTE Projects contain the media and transcripts that are clippable.
+
+[![DOTE clipping](images/dote/dote-clipping.png)](images/dote/dote-clipping.png)
+
 See the help guide for _DOTE_ for how to [create and maintain _DOTE_ Projects](https://bigsoftvideo.github.io/DOTE/projects.html).

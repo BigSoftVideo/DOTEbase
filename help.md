@@ -27,7 +27,7 @@ Here is a list of help tutorials on specific topics:
   - [Lego Demo DOTEspace](demo.md) - a demo to illustrate features
 - [How to use _DOTEbase_](use-cases.md) - ideas to get started
 - [_DOTE_ Projects and Transcripts](dote.md) - _DOTE_ still does the heavy lifting
-- [Layouts](layout.md) - set up the look for the task at hand
+- [Layouts](layout.md) - set up the look and the tools for the task at hand
 - [Media Player](media-player.md) - playing media sources
 - [Clips](clips.md) - clipping for everyone
 - [Project Clips Viewer](clips-viewer.md) - what clips have I made
