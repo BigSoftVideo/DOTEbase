@@ -19,6 +19,11 @@ As a result, the others are unactivated.
 
 An Annotation is a plain text note called a [Comment](#comment) about a specific [Clip](#clip).
 
+### Cache <a id='cache'></a>
+
+_DOTEbase_ keeps a record (cache) of the last known _DOTE_ relevant folders/files and their location.
+Thus, _DOTEbase_ can display and use some information about the whole DOTEspace even when some Projects/Transcripts and their Clips are not currently available.
+
 ### Canvas <a id='canvas'></a>
 
 A Canvas is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
@@ -115,7 +120,15 @@ The Media Player displays a viewport of the selected or cued media file that mat
 If selected using the toggle, the video panel can track the original [video-cues](#video-cue) in the referenced _DOTE_ Transcript and Project.
 As the media stream plays in the _DOTE_ project, the video and pan/zoom will match that cue.
 An alternative view is to take the last SAVED view when using _DOTE_ to view the media in the Project.
-And a third alternative is a DOTEbase only saved view of the current video in the current Project.
+And a third alternative is a _DOTEbase_ only saved view of the current video in the current Project.
+
+### Original <a id='original'></a>
+
+Clips that are listed in a DOTEspace are considered "original" when they are assigned to that DOTEspace.
+When moving DOTE Projects and their clips to a new location, then they will no longer be assigned to that DOTEspace.
+They will need to be reassigned as a Copy or Original in the DOTEspace containing the new watch folder.  
+
+See also [Copy](#copy) and [Unassigned](#unassigned).
 
 ### Scope<a id='scope'></a>
 

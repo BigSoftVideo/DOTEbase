@@ -18,6 +18,12 @@ Individual projects and transcripts can be removed once the DOTEspace is scanned
 
 It is important to appreciate the [scope of a DOTEspace](scope.md) in _DOTEbase_.
 
+Because _DOTEbase_ scans watch folders that can be distributed across your file system, sometimes a drive or folder is not currently accessible.
+_DOTEbase_ keeps a record (cache) of the last known folders/files and their location.
+In the DOTEspace panel, Projects and Transcripts that have been found in watch folders can have different statuses (colour-coded), namely found/scanned, not found, inaccessible...
+
+In the DOTEspace panel, Media and Transcript Clips can have different statuses (icons), namely original, copy or not found.
+
 NOTE that DOTEspaces are not encrypted on your computer.
 _DOTEbase_ stores all data and meta-data in plain text in files on your computer.
 If you wish to encrypt the data, then use software or hardware encryption on the relevant drives/folders as required.
