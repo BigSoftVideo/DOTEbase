@@ -40,6 +40,7 @@ Here is a list of help tutorials on specific topics:
 - [Canvas](canvas.md) - visualising and mind mapping
 - [Export and Import a DOTEspace](export.md) - archiving and sharing your work
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
+- [Tips and Pointers](tips.md) - 
 - [Glossary of key terms](glossary.md) - what you need to know
 
 ### Browse our _DOTEbase_ video tutorials <a id='tutorials'></a>
