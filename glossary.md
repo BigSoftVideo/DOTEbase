@@ -209,7 +209,8 @@ _DOTEbase_ can flag [Warnings and Errors](errors.md) in the use of _DOTEbase_.
 ### Watch Folder <a id='watch-folder'></a>
 
 One or more Watch Folders are found in a [DOTEspace](#dotespace).
-It is an assigned folder on your file system that _DOTEbase_ [watches and crawls](#crawl) to find and log _DOTE_ Projects and their Transcripts.
+It is an assigned folder on your file system that _DOTEbase_ [scans and crawls](#crawl) to find and log _DOTE_ Projects and their Transcripts.
+A Watch Folder includes ALL folders and subfolders, unless the user specifies otherwise.
 
 ### Waveform <a id='waveform.md'></a>
 
