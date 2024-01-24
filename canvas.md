@@ -37,9 +37,15 @@ Clips can be filtered in two ways, by level and by search item.
 A clip can be dragged and dropped onto the Canvas (no limit to how many times a clip can be added to each Canvas).
 Once on the Canvas, properties such as icon or custom emoji can be changed by clicking on the clip to open up the clip node settings.
 
-By selecting multiple Clips on the Canvas while pressing the `CTRL` or `OPTION` key, multiple Clips can be selected and edited as a group of nodes (and moved together)
+By selecting multiple Clips on the Canvas while pressing the `CTRL` or `OPTION` key, multiple Clips can be selected and edited as a group of nodes (and moved together).
+Also, a group of clips can be selected by pressing the `SHIFT` key and dragging a rectangular lasso around the clips.
 
 Hovering over a clip will reveal meta-data about the clip.
+
+Clips can be also added directly from the main _DOTEbase_ window in the Project Clips Viewer and the Collection Viewer.
+- Select a clip in one of those two panels, and click the right arrow  button to expand the clip details.
+- At the bottom is a `Send to CANVAS` button that will add that Clip to the Canvas.
+- If a Canvas is not currently open, it will be sent to the Canvas next time it is opened in the current session.
 
 By right clicking on the Canvas in blank space one can add ALL Clips in the current DOTEspace to the Canvas in one go.
 The Clips will be arranged in a random pattern on the Canvas.
