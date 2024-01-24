@@ -20,6 +20,8 @@ One can add clusters of Clips in multiple locations on the Canvas, though with 1
 When selecting a clip etc on the Canvas a node settings panel opens.
 To revert to the clips panel, just click somewhere else in blank space until the panel reopens.
 
+[![Canvas example](images/canvas/canvas-example.png)](images/canvas/canvas-example.png)
+
 ### Resizing and moving the canvas
 
 One can resize the canvas, re-center the Canvas and lock the canvas using the buttons in the bottom left of the Canvas panel.
