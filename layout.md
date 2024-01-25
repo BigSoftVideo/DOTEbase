@@ -6,6 +6,8 @@ Also, some panels can have multiple instances, eg. Transcript and Search panels 
 
 For ease of use, _DOTEbase_ should restore the last used layout every time when restarts _DOTEbase_.
 
+### Predefined layouts
+
 There is the option to switch between several predefined layouts.
 
 - Click the `Layouts` button and a menu will appear.
@@ -26,3 +28,44 @@ Predefined layouts include:
 
 Later we will allow users to export and share their own layouts.
 We encourage trading in layouts for specific purposes.
+
+### Panels in layouts
+
+The _DOTEbase_ user interface is very flexible.
+Users can open/close and rearrange panels to find the best configuration for the task at hand on the display available.
+
+Some panels can contain multiple instances in tabs, eg. `Transcript` or `Search`.
+
+Panels can be opened by clicking the relevant button in the top bar, eg. `Layouts` or `DOTEspaces`.
+The panel will appear in one of several locations:
+- The currently selected panel.
+- The appropriate panel, eg. new Transcript panels are opened in the parent Transcript panel is a new tabbed instance.
+
+NOTE that in Zen mode individual panels can be expanded to be the only panel open in your _DOTEbase_ layout.
+Click on the expand button on the top right of every panel.
+To shrink back to your current layout before zooming in, click the shrink button.
+
+### Panel names
+
+Some panels will display the source of the contents of the panel:
+
+- Transcript panels will display the source Transcript
+- Project Clips Viewer will display the source Project
+- Collection Viewer will display the source Collection name
+
+### Resizing panels
+
+Panels and panels in tabs can be resized.
+
+- To resize a panel, grab the handle one of the edges of the panel and drag and drop to resize.
+- Other panels will be resized as well to fit.
+
+### Moving panels
+
+Panels and panels in tabs can be relocated (and resized accordingly).
+
+- To move a panel to a new location, click on the panel HEADER and drag.
+- As one drags the panel over other panels, a grey block will show a possible new location.
+- As one drags the panel onto the header of another panel, the panel can be added to that master panel as a new tab.
+- Drop the panel and it will move to the selected location.
+ 
