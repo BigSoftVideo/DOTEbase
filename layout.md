@@ -6,6 +6,8 @@ Also, some panels can have multiple instances, eg. Transcript and Search panels 
 
 For ease of use, _DOTEbase_ should restore the last used layout every time when restarts _DOTEbase_.
 
+To enlarge or shrink the default font size for the whole user interface, then use the function keys `F9`/`F10`.
+
 ### Predefined layouts
 
 There is the option to switch between several predefined layouts.
