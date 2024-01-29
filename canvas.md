@@ -71,15 +71,15 @@ Any clips placed within that box will be grouped together and can be moved toget
 
 ### Changing defaults in Settings
 
-A number of default settings can be changed in Settings.
+A number of default settings can be changed in Settings that apply to all Canvases.
 Click the `Settings` button.
 
 - General
-  - Background
-  - Minimap
-  - Controls
+  - Background - what type of background to the Canvas
+  - Minimap - options for the minimap that shows the complete Canvas
+  - Controls - options for the control group box in the bottom right
 - Default Edge
-  - Label
-  - Connection line
-  - Markers
+  - Label - options for labels on lines
+  - Connection line - options for the style of the connecting line
+  - Markers - options for the endings of connecting lines
  
