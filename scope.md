@@ -31,6 +31,12 @@ The [Timeline](timeline.md) only shows the waveform for the currently open Proje
 ### Media Clips Organiser
 
 The [Media Clips Organiser](media-clips-organiser.md) shows all media clips in the current _DOTE_ Project that is open in _DOTEbase_.
+Thus, the [Tiers](glossary.md#tier) are local to that Project and are not shared with other Projects.
+
+### Tags
+
+[Tags](glossary.md#tag) are universal.
+The same tag names are available across all DOTEspaces.
 
 ### Search
 
