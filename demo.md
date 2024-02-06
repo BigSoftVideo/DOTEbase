@@ -10,3 +10,11 @@ At present, only one DOTEspace can be [exported and imported](export.md) at one 
 
 ### How to download and import the demo DOTEspace
 
+To download the demo DOTEspace beta version, follow the instructions given by the developers.
+You will need to make sure you have enough space for the download (1.7GB) and the same again to import it into DOTEbase.
+After import, you can delete the downloaded file.
+
+1. Select `Import` from `File` menu.
+2. Locate the file that you downloaded and import.
+3. The DOTEspace should appear in the list of DOTEspaces in the DOTEspaces panel.
+4. Have fun exploring the demo!
