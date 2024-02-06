@@ -26,8 +26,11 @@ If this concerns you, then encrypt the DOTEspace export file using your preferre
 
 ### How to import a DOTEspace
 
+[![Export](images/dotespace/import.png)](images/dotespace/import.png)
+
 1. If you have received a DOTEspace archive file, then select `File/Import DOTEspace`.
 1. Locate the file on your file system.
 1. The Projects/Transcripts and Transcript/Media Clips that are found in the archive will be listed.
 1. Select the location on your file system that you would like the DOTEspace to be unpacked.
-1. The DOTEspace will be added to your list of DOTEspaces.
+2. Enter a unique name for the imported DOTEspace.
+3. The DOTEspace will be added to your list of DOTEspaces.
