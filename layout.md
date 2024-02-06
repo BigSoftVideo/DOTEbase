@@ -18,6 +18,8 @@ There is the option to switch between several predefined layouts.
   - Custom user layouts - The current layout can be saved as a custom layout.
 Custom layouts are listed and can be deleted.
 
+[![Layouts](images/layout/layouts.png)](images/layout/layouts.png)
+
 Predefined layouts include:
 
 - _Starting_ layout - to get started for readability when screen estate is limited
