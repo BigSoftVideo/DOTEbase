@@ -1,3 +1,28 @@
 ## How to use the Collection Viewer
 
 When a [Clip Collection](clip-collections.md) is selected in the [Collections Browser](collections-browser.md), the Collection Viewer lists all Clips in that Collection.
+
+[![Canvas example](images/collections/collection-viewer.png)](images/collections/collection-viewer.png)
+
+### Clip views
+
+Two clip views are available.
+
+1. Show Project & Transcript source
+2. Show Clip custom fields, eg. user-defined values/names.
+
+### Sorting and filtering
+
+Clips can be sorted in four ways:
+
+1. Custom - the list can be rearranged in any order
+2. Updated - by last updated
+3. Name - by user-defined name value
+4. Chronological - by creation date/time
+
+Clips can be filtered in the following ways:
+
+- Include/exclude Media Clips
+- Include/exclude Transcript Clips
+- Include/exclude sub-collections
+- Show only clips with/without tags
