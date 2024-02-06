@@ -9,7 +9,14 @@ An exported DOTEspace can be imported into DOTEbase by another user.
 1. Select File/Export DOTEspace.
 1. Select the Projects/Transcripts and/or Media/Transcript Clips that you would like to export in the DOTEspace.
 The default is ALL.
-1. Select EXPORT and choose a filename and find a location for the archive file to be generated.
+You can also choose to include/exclude Checkpoints and Autosaves associated with each Transcript (see _DOTE_).
+1- Select `Browse` to find a location for the archive file to be generated.
+1. Select `Export` and choose a filename.
+
+[![Export](images/dotespace/export.png)](images/dotespace/export.png)
+
+NOTE that if any Projects/Transcripts are not online at the moment (eg. the drive is not available), then a cached version will be exported.
+The inaccessible Project/Transcript(s) will be marked with a red bar (see above).
 
 NOTE that if there are any clips from other DOTEspaces in Collections associated with a DOTEspace to be exported, then those external clips will not be exported.
 
