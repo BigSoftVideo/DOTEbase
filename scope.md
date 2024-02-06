@@ -3,7 +3,6 @@
 Because each tool works with specific data and meta-data, it is very important that users appreciate exactly what each tool is working with.
 The list below consists of all the major tools and capabilities found in _DOTEbase_.
 
-
 ### DOTEspace
 
 A [DOTEspace](dotespace.md) consists of all _DOTE_ Projects/Transcripts found in all of its watch folders.
