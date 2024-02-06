@@ -3,6 +3,8 @@
 Media Clips (or M-clips) are indexed between and IN and OUR point in a media source found in a _DOTE_ project in the current DOTEspace.
 Thus, it represents a fixed duration of a clip within a media source.
 
+[![Media clips](images/clips/m-clips.png)](images/clips/m-clips.png)
+
 Here are the steps to create a media clip:
 1. Locate and view the media source in which you wish to make a clip.
 This can be done by browsing the Projects listed in the DOTEspace panel.
