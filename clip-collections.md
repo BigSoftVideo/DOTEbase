@@ -3,7 +3,7 @@
 You can create any number of collections of clips.
 And these collections can be embedded inside other clip collections, which inherit the sub-collections clips.
 
-[![Canvas example](images/collections/collections.png)](images/collections/collections.png)
+[![Clip Collections](images/collections/collections.png)](images/collections/collections.png)
 
 Collections can be created, moved, deleted and renamed within the Collections tree.
 

@@ -2,7 +2,7 @@
 
 The Collections Browser displays all the available Clip Collections in the current DOTEspace.
 
-[![Canvas example](images/collections/collections-browser.png)](images/collections/collections-browser.png)
+[![Collections Browser](images/collections/collections-browser.png)](images/collections/collections-browser.png)
 
 All your Collections are listed in this Browser.
 Each Collection can include Clips from any DOTEspace.

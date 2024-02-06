@@ -2,7 +2,7 @@
 
 When a [Clip Collection](clip-collections.md) is selected in the [Collections Browser](collections-browser.md), the Collection Viewer lists all Clips in that Collection.
 
-[![Canvas example](images/collections/collection-viewer.png)](images/collections/collection-viewer.png)
+[![Collection Viewer](images/collections/collection-viewer.png)](images/collections/collection-viewer.png)
 
 ### Clip views
 
