@@ -6,6 +6,10 @@ A key feature of the Media Clips Organiser is the ability to create Tiers to whi
 This feature allows users to create colour-coded channels to better visualise individual clips in the Timeline.
 Note that these have nothing to do with Transcripts and are not a form of score-based transcription (such as found in ELAN).
 
+[![Media clips organiser](images/clips/m-clips-org.png)](images/clips/m-clips-org.png)
+
+### Organising Media Clips
+
 - Any number of Tiers can be created (name and colour).
 - Use the Settings in the Media Clips Organiser to adjust the colour and order of the Tiers.
 - Media Clips can be assigned to any Tier.
@@ -13,3 +17,5 @@ Note that these have nothing to do with Transcripts and are not a form of score-
 - Clips can be locked to avoid accidental movement or adjustment.
 - Clips can be adjusted in length using the Adjust boundaries mode.
 - Clip details (Tag, UDF) can be shown in Clip objects in all Tiers.
+
+Note that Media Clips cannot be created, viewed or edited in _DOTE_, unlike Transcript Clips.
