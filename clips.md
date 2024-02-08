@@ -4,7 +4,7 @@ Because qualitative researchers wish to make notes on specific fragnents of thei
 
 There are two types of clips in _DOTEbase_:
 
-1. Media Clips - notes and tags attached to a short stretch of an audiovisual file.
-2. Transcript Clips - notes and tags attached to a delimited section of an in progress transcript created and edited in DOTE.
+1. [Media Clip](media-clip.md) - notes and tags attached to a short stretch of an audiovisual file.
+2. [Transcript Clip](transcript-clip.md) - notes and tags attached to a delimited section of an in progress transcript created and edited in DOTE.
 
-See [Media Clip](media-clip.md), [Transcript Clip](transcript-clip.md), [Clips Viewer](clips-viewer.md), [Clips Organiser](media-clips-organiser.md), [Clip Collections](clip-collections.md), [Tags](tags.md)...
+See also [Clips Viewer](clips-viewer.md), [Clips Organiser](media-clips-organiser.md), [Clip Collections](clip-collections.md), [Tags](tags.md).
