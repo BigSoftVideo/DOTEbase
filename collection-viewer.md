@@ -16,9 +16,9 @@ Two clip views are available.
 Clips can be sorted in four ways:
 
 1. Custom - the list can be rearranged in any order
-2. Updated - by last updated
+2. Updated - by last modified
 3. Name - by user-defined name value
-4. Chronological - by creation date/time
+4. Chronological - ordered according to the timestamp of M-clips and line number of T-clips
 
 Clips can be filtered in the following ways:
 
