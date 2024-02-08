@@ -44,7 +44,7 @@ One _cannot_ search across ALL DOTEspaces.
 
 ### Clips Viewer
 
-The [Clips Viewer](clips-viewer.md) only shows [Transcript and Media Clips](clips.md) in the current _DOTE_ Project that is open in _DOTEbase_.
+The [Clips Viewer](clips-viewer.md) can show [Transcript and Media Clips](clips.md) in the current _DOTE_ Project that is open in _DOTEbase_ and it can broaden the scope to list all clips in selected Projects and Transcripts in or more DOTEspaces.
 
 ### Collections Browser
 
