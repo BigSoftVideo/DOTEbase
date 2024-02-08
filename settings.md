@@ -2,6 +2,8 @@
 
 There are a limited number of settings that can be used to alter the default behaviour of _DOTEbase_.
 
+[![Settings](images/settings/settings.png)](images/settings/settings.png)
+
 - The path on your file system to the installed _DOTE_ software package is required so that _DOTEbase_ can communicate with _DOTE_.
 Browse and locate the path to the `DOTE.exe` file on your file system (macOS/Windows 10 or 11)
 - The path to FFmpeg is recommended so that _DOTEbase_ can play the media files and display the waveforms correctly.
