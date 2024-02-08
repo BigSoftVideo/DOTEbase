@@ -18,7 +18,9 @@ Use the [Media Manager](https://bigsoftvideo.github.io/DOTE/media.html) in _DOTE
 Use _DOTE_ instead to [manage Projects](https://bigsoftvideo.github.io/DOTE/projects.html).
 - _DOTEbase_ stores a local cache of the watch folders in every [DOTEspace](dotespace.md).
 The [DOTEspace Crawler](glossary.md#crawl) searches all watch folders and updates the cache at startup and when changes are detected.
-- Changes made to a DOTEspace, clip or collection are immediate and irreversible. There is no undo mechanism.
+- Changes made to a DOTEspace, clip or collection are immediate and irreversible.
+There is no undo mechanism.
+The exception is the [Canvas](canvas.md), which has undo/redo functionality.
 - [Transcript Clips](transcript-clip.md) added in _DOTE_ to any Transcript in a watch folder will be detected by the [DOTEspace Crawler](glossary.md#crawl) when the Transcript is saved.
 - All data and meta-data used by _DOTEbase_ is unencrypted.
 Use your own software/hardware encryption.

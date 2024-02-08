@@ -9,6 +9,8 @@ Each Canvas is stored and will be reopened when selected the next time you resta
 The Canvas space is infinite in all directions.
 One can add clusters of Clips in multiple locations on the Canvas, though with 100s of clips it may become cluttered.
 
+Note that unlike for the main DOTEbase tools, actions on the Canvas (moving clips, connecting lines etc) can be undone and redone (see the buttons on the bottom left of the Canvas panel).
+
 ### Open and select a Canvas
 
 - Click on the `Open Canvas` button.
