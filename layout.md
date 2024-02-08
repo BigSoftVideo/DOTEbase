@@ -54,7 +54,7 @@ To shrink back to your current layout before zooming in, click the shrink button
 Some panels will display the source of the contents of the panel:
 
 - Transcript panels will display the source Transcript
-- Project Clips Viewer will display the source Project
+- Clips Viewer will display the source Project
 - Collection Viewer will display the source Collection name
 
 ### Resizing panels

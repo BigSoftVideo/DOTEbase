@@ -36,5 +36,5 @@ Make sure that the cursor is inside only one clip.
 
 ### Method 3
 
-- Find the clip in the Project Clips Viewer, the Collection Viewer or a Search result.
+- Find the clip in the Clips Viewer, the Collection Viewer or a Search result.
 - Click the pencil icon or the delete icon.

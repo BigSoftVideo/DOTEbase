@@ -46,7 +46,7 @@ Also, a group of clips can be selected by pressing the `SHIFT` key and dragging 
 
 Hovering over a clip will reveal meta-data about the clip.
 
-Clips can be also added directly from the main _DOTEbase_ window in the Project Clips Viewer and the Collection Viewer.
+Clips can be also added directly from the main _DOTEbase_ window in the Clips Viewer and the Collection Viewer.
 - Select a clip in one of those two panels, and click the right arrow  button to expand the clip details.
 - At the bottom is a `Send to CANVAS` button that will add that Clip to the Canvas.
 - If a Canvas is not currently open, it will be sent to the Canvas next time it is opened in the current session.

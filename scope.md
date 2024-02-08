@@ -42,9 +42,9 @@ The same tag names are available across all DOTEspaces.
 The default [Search](search.md) is across the current DOTEspace only.
 One _cannot_ search across ALL DOTEspaces.
 
-### Project Clips Viewer
+### Clips Viewer
 
-The [Project Clips Viewer](clips-viewer.md) only shows [Transcript and Media Clips](clips.md) in the current _DOTE_ Project that is open in _DOTEbase_.
+The [Clips Viewer](clips-viewer.md) only shows [Transcript and Media Clips](clips.md) in the current _DOTE_ Project that is open in _DOTEbase_.
 
 ### Collections Browser
 

@@ -30,7 +30,7 @@ Here is a list of help tutorials on specific topics:
 - [Layouts](layout.md) - set up the look and the tools for the task at hand
 - [Media Player](media-player.md) - playing media sources
 - [Clips](clips.md) - clipping for everyone
-- [Project Clips Viewer](clips-viewer.md) - what clips have I made
+- [Clips Viewer](clips-viewer.md) - what clips have I made
 - [Media Clips Organiser](media-clips-organiser.md) - clipping your media
 - [Clip Collections](clip-collections.md) - fun collections of clips
 - [Collections Browser](collections-browser.md) - organising all your clip collections
