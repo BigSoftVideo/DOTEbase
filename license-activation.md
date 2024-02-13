@@ -7,7 +7,7 @@ With each new major release (eg. from `v1` to `v2`), a new license or an upgrade
 
 Go to our [WEBSHOP](https://www.dote.aau.dk) to purchase a _DOTE_ license and read more information about Editions.
 
-### _DOTEbase_ license installation <a id='license'></a>
+### DOTEbase license installation <a id='license'></a>
 
 To unlock _DOTEbase_, you will have to do the following:
 
