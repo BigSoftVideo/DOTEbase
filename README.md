@@ -21,7 +21,7 @@ By extension, _DOTEbase_ is a Distributed Open Transcription Environment _databa
 
 If you need a tool to get a better grip on your audio-visual data and/or transcripts, then _DOTEbase_ is for you.
 It is designed to support qualitative analysis.
-There are plenty of software tools to support quantitative analysis, but not so many to innovatively support how we do qualitative research in the social sciences and humanities. In addition, _DOTEbase_ is natively supporting research with audio-visual data. 
+There are plenty of software tools to support quantitative analysis, but not so many to innovatively support how we do qualitative research in the social sciences and humanities. In addition, _DOTEbase_ is natively supporting research with audio-visual data.
 It has been designed by qualitative researchers in discourse studies and social interaction in education/learning.
 
 ### How do I try _DOTEbase_?
@@ -38,4 +38,4 @@ There is a lot to get familiar with, but we hope it is worth it.
 Please read carefully the [help guide](help.md), which provides instructions to get you started with the basic transcription tasks using _DOTE_.
 There are plenty of [video tutorials](tutorials.md) available as well.
 
-Thanks and have fun, [_Dote Team_](contributing.md)
+Thanks and have fun, [_Dotebase Team_](contributing.md)
