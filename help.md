@@ -29,18 +29,20 @@ Here is a list of help tutorials on specific topics:
 - [_DOTE_ Projects and Transcripts](dote.md) - _DOTE_ still does the heavy lifting
 - [Layouts](layout.md) - set up the look and the tools for the task at hand
 - [Media Player](media-player.md) - playing media sources
+- [Timeline](timeline.md) - pinpointing the event
+- [Transcripts](transcript.md) - multiple views on all your transcripts
 - [Clips](clips.md) - clipping for everyone
 - [Clips Viewer](clips-viewer.md) - what clips have I made
-- [Media Clips Organiser](media-clips-organiser.md) - clipping your media
+- [Media Clips Organiser](media-clips-organiser.md) - organising your media clips
 - [Clip Collections](clip-collections.md) - fun collections of clips
 - [Collections Browser](collections-browser.md) - organising all your clip collections
 - [Tags](tags.md) - tagging for everyone
 - [Comments](comments.md) - taking notes
 - [Search](search.md) - clever searching over all transcripts and clips
-- [Canvas](canvas.md) - visualising and mind mapping
+- [Canvas](canvas.md) - visualising and mind mapping clips
 - [Export and Import a DOTEspace](export.md) - archiving and sharing your work
 - [Commands and shortcuts guide](commands.md) - a visual guide all in one place
-- [Tips and Pointers](tips.md) - 
+- [Tips and Pointers](tips.md) - wise words of advice
 - [Glossary of key terms](glossary.md) - what you need to know
 
 ### Browse our _DOTEbase_ video tutorials <a id='tutorials'></a>
