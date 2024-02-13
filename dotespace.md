@@ -38,7 +38,7 @@ It is not recoverable.
 ### Notes
 
 NOTE that DOTEspaces are not encrypted on your computer.
-_DOTEbase_ stores all data and meta-data in plain text in files on your computer.
+_DOTEbase_ stores all data and meta-data in human readable form in files on your computer.
 If you wish to encrypt the data, then use software or hardware encryption on the relevant drives/folders as required.
 
 NOTE that nothing is uploaded to the cloud by _DOTE_ or _DOTEbase_.
