@@ -10,14 +10,15 @@ Only media clips in that Project and transcript clips in any Transcript in that 
 The simplest view is afforded by the "Project" Scope (button).
 Only Clips in the currently viewed Project are displayed.
 
-### Viewing Clips in all selected Projects
+### Viewing Clips in all selected Projects and Ttanscripts
 
 Alternatively, one can change the Scope to "Selected Projects and Transcripts" (button).
 
 - First one has to select multiple Projects/Transcripts by pressing SHIFT or CTRL and clicking on the desired Projects and Transcripts listed in one or more DOTEspaces in the DOTEspace panel.
 - All Clips from that selection are then displayed in the Clips Viewer.
-- Note that one can select from more than one DOTEspace.
+- Note that one can select Projects, Transcripts, Transcript Clips and Media Clips from more than one DOTEspace.
 This is because [Clip Collections](clip-collections.md) can contain Clips from more than one DOTEspace.
+- Note that if one selects a Transcript Clip or a Media Clip than all Clips will be shown from the parent Transcript or Project, not just the Clip selected.
 
 ### Changing the Clip view
 
