@@ -5,6 +5,7 @@ Here you will find ideas and solutions to specific tasks that you might wish to 
 - [Important things to note](#tip1)
 - [What _DOTEbase_ is...](#tip2)
 - [What _DOTEbase_ isn't...](#tip3)
+- [How can I use _DOTEbase_ to support my qualitative analytical practices](#tip4)
 
 ### Important things to note? <a id='tip1'></a>
 
@@ -42,3 +43,9 @@ Nothing is uploaded to the web or cloud.
 - It is NOT a cloud-based tool.
 - It is NOT a miracle that uses AI to do analysis for you!
 
+### How can I use _DOTEbase_ to support my qualitative analytical practices <a id='tip4'></a>
+
+There are lots of ways to use _DOTEbase_ to support what you do and also to encourage you to try new methods of doing qualitative analysis.
+See [our list](use-cases.md) that outlines some of them.
+We are always open to new uses of DOTEbase or ideas for new tools.
+Let us know by [email](email:dote@ikl.aau.dk) or on one of the _DOTEbase_ channels on our [Discord server](https://discord.gg/8BmuHP7xh4).

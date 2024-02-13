@@ -8,11 +8,13 @@ Often when confronted with a new set of data recordings, one can be overwhelmed 
 One of the key reasons we developed _DOTEbase_ was to be able to start to make sense of a large corpus of audio and video recordings of an event.
 To start at the beginning, one can work with the audio-visual media and make notes using [Media Clips](media-clip.md) on anything noticeable as one wades through the corpus, watching hours and hours of recorded data.
 See our [Lego Demo DOTEspace](demo.md) for an example of a DOTEspace that covers a short recorded event but with many video cameras/microphones capturing multiple participants.
+It is best to use the Media Clipping predefined [layout](layout.md) for this task.
 
 ### Transitioning from the audio-visual data to transcribing
 
 An extension of the previous strategy is to make a first pass through the audio-visual archive, identifying interesting fragments via [Media Clips](media-clip.md).
 When enough of a picture of interesting phenomena has been established, then one can open the blank [Transcripts](transcript.md) created in _DOTE_ and start transcribing the relevant passages indicated by the generated Media Clips.
+It is best to use the Transcript Clipping predefined [layout](layout.md) for this task.
 
 ### Adding a bunch of already created transcripts to a DOTEspace
 
