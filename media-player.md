@@ -12,6 +12,8 @@ The Media Player only plays back media in combination with the [Timeline](timeli
 
 The source can be viewed in different ways.
 
+[![Media player views](images/mediaplayer/player-views.png)](images/mediaplayer/player-views.png)
+
 1. One format is derived from the Video-cues created in _DOTE_ for the Project in question.
 2. Another format is the last known saved view for this media in the Project in _DOTE_.
 3. A third format is the last known saved view for this media in _DOTEbase_ itself.
