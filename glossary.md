@@ -26,13 +26,13 @@ Thus, _DOTEbase_ can display and use some information about the whole DOTEspace 
 
 ### Canvas <a id='canvas'></a>
 
-A Canvas is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
+A [Canvas](canvas.md) is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
 For example, representations of [Transcript Clips](#transcript-clip), [Media Clips](#media-clip), [Tags](#tag), [Clip Collections](#clip-collection), etc. can be dragged and dropped onto the independent Canvas.
 Relationships between objects can be constructed using a basic set of icons, arrowheads, lines and borders.
 
 ### Clip <a id='clip'></a>
 
-A Clip is a shorter segment of a media file or an excerpt from a [_DOTE_ transcript](#dote-transcript).
+A [Clip](clips.md) is a shorter segment of a media file or an excerpt from a [_DOTE_ transcript](#dote-transcript).
 We call the first a _Media Clip_.
 It saves the IN and OUT points of a segment in an audio or video file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
 The second we call a _Transcript Clip_.
@@ -40,15 +40,15 @@ It saves the starting character/line and ending character/line in a transcript f
 
 ### Clip Collection <a id='clip-collection'></a>
 
-A Clip Collection is a set of of [Clips](#clip) across one or more [DOTEspaces](#dotespace).
+A [Clip Collection](clip-collections.md) is a set of of [Clips](#clip) across one or more [DOTEspaces](#dotespace).
 
 ### Collection Viewer <a id='collection-viewer.md'></a>
 
-A Collection Viewer is an ordered list of [Clips](#clip) in each [Clip Collection](#clip-collection). 
+A [Collection Viewer](collection-viewer.md) is an ordered list of [Clips](#clip) in each [Clip Collection](#clip-collection). 
 
 ### Collections Browser <a id='collections-browser.md'></a>
 
-A Collections Browser is an ordered list of all current [Clip Collections](#clip-collection).
+A [Collections Browser](collections-browser.md) is an ordered list of all current [Clip Collections](#clip-collection).
 
 ### Comment <a id='comment'></a>
 
@@ -93,10 +93,10 @@ Without a valid license, _DOTEbase_ cannot be used.
 
 ### Line number <a id='line-number'></a>
 
-Line Numbers are inherited from _DOTE_.
-They are the abstract Line Numbers displayed in _DOTE_'s Transcript Editor.
+Line Numbers in Transcripts are inherited from _DOTE_.
+They are identical to the virtual Line Numbers displayed in _DOTE_'s Transcript Editor.
 A temporary, unique number is assigned in ascending order to each and every line.
-It is not the same as the line numbering after exporting a transcript into RTF, for example.
+It is not the same as the line numbering after exporting a transcript into RTF format, for example.
 
 ### Lock <a id='lock'></a>
 
@@ -105,18 +105,18 @@ One can still edit and add Transcript Clips in DOTE.
 
 ### Media Clip <a id='media-clip'></a>
 
-A Media Clip saves the IN and OUT points of a segment in an audio or video file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
+A [Media Clip](media-clip.md) saves the IN and OUT points of a segment in an audio or video file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
 
 Media Clips are also known as M-Clips.
 
 ### Media Clips Organiser <a id='media-clips-organiser'></a>
 
-The Media Clips Organiser is a tool to visually arrange and order [Media Clips](#media-clip) created in _DOTEbase_.
+The [Media Clips Organiser](media-clips-organiser.md) is a tool to visually arrange and order [Media Clips](#media-clip) created in _DOTEbase_.
 M-clips can be assigned to [Tiers](#tier).
 
 ### Media Player <a id='video-panel'></a>
 
-The Media Player displays a viewport of the selected or cued media file that matches the _DOTE_ Transcript and/or Project that is currently active.
+The [Media Player](media-player.md) displays a viewport of the selected or cued media file that matches the _DOTE_ Transcript and/or Project that is currently active.
 If selected using the toggle, the video panel can track the original [video-cues](#video-cue) in the referenced _DOTE_ Transcript and Project.
 As the media stream plays in the _DOTE_ project, the video and pan/zoom will match that cue.
 An alternative view is to take the last SAVED view when using _DOTE_ to view the media in the Project.
@@ -138,16 +138,16 @@ For example, [Search](#search) works over the current DOTEspace, yet the [Media 
 
 ### Search <a id='search'></a>
 
-_DOTEbase_ can search in a DOTEspace for a text string in a variety of data/meta-data.
+_DOTEbase_ can [Search](search.md) in a DOTEspace for a text string in a variety of data/meta-data.
 
 ### Tag <a id='tag'></a>
 
-A Tag is a short, thematic text string that can be assigned to any [Clip](#clip).
+A [Tag](tags.md) is a short, thematic text string that can be assigned to any [Clip](#clip).
 Tags are searchable and autocompleteable.
 
 ### Tier <a id='tier'></a>
 
-Tiers and subtiers are usually found in transcripts, but in _DOTEbase_ Media Clips can be organised on their own Tiers.
+Tiers and subtiers are usually found in Transcripts, but in _DOTEbase_ Media Clips can be organised on their own [Tiers](media-clips-organiser.md).
 Tiers can be created, renamed and colour coded.
 Media Clips can be dragged between Tiers.
 
@@ -157,20 +157,20 @@ A Timecode is a temporal reference to a specific moment in a playable media file
 
 ### Timeline <a id='timeline'></a>
 
-The Timeline is a linear graphical representation of time passed in a specific [_DOTE_ Transcript](#dote-transcript).
+The [Timeline](timeline.md) is a linear graphical representation of time passed in a specific [_DOTE_ Transcript](#dote-transcript).
 
 See [Waveform](#waveform).
 
 ### Transcript <a id='transcript'></a>
 
-A Transcript is a textual document that represents a transcribed version of an event captured in audio-visual media.
+A [Transcript](transcript.md) is a textual document that represents a transcribed version of an event captured in audio-visual media.
 Transcripts are created in _DOTE_ and are viewable in [DOTEspace](#dotespace) if the _DOTE_ Project/Transcript is included in the scope of the DOTEspace watch folder(s).
 
 ### Transcript Clip <a id='clips.md#transcript'></a>
 
-A Transcript Clip saves the starting character/line and ending character/line in a transcript file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
+A [Transcript Clip](transcript-clip.md) saves the starting character/line and ending character/line in a transcript file imported into a [_DOTE_ project](#dote-project) that is in a [Watch Folder](#watch-folder) in a [DOTEspace](#dotespace).
 
-Transcript Clips can be assigned a specific shape and line/box colour.
+Transcript Clips can be assigned a specific shape and line/box and background colour.
 
 Transcript Clips are also known as T-Clips.
 
@@ -221,9 +221,3 @@ This is generated by _DOTE_ when a media file is imported into a [_DOTE_ Project
 
 Each open panel in the user interface (UI) can be zoomed so that only that panel and its tabs is viewable in _DOTEbase_.
 This facility allows the user to go into zen mode and focus on only one tool at a time without distraction.
-
-
-
-###  <a id=''></a>
-
-A  is...
