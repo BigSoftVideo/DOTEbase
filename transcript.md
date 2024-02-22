@@ -4,7 +4,7 @@ A Transcript panel displays the currently open Transcript created in _DOTE_.
 Each Transcript panel displays a Transcript with line numbers as it was edited in _DOTE_.
 All the [sync-codes](https://bigsoftvideo.github.io/DOTE/sync-code.html) will be displayed, which index specific time-stamps in the media, thus tying the Transcript lines to the media source(s).
 
-[![Transcripts](images/transcript/transcript.png)](images/clips/transcript/transcript.png)
+[![Transcripts](images/transcript/transcript.png)](images/transcript/transcript.png)
 
 Multiple Transcript panels can be opened in _DOTEbase_.
 Just click the `TRANSCRIPT` button in the menu bar.
@@ -16,7 +16,7 @@ As a result, one can open multiple Transcripts across the DOTEspace at the same 
 
 There are two options for each Transcript Panel that is open:
 
-[![Transcript views](images/transcript/transcript-views.png)](images/clips/transcript/transcript-views.png)
+[![Transcript views](images/transcript/transcript-views.png)](images/transcript/transcript-views.png)
 
 1. Show/hide Transcript Clips (button).
 Clips can mess up the original Transcript, so you can hide all of them in a Transcript Panel.
