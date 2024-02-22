@@ -8,6 +8,8 @@ Theoretically, it should also run on Linux, but we don't support this.
 Contact us if you are interested in using _DOTEbase_ on this platform.
 Note that only one instance of _DOTEbase_ is allowed to run at the same time.
 
+Note that _DOTEbase_ can only be installed and used if and only if you [activate a license](license-activation.md).
+
 Choose the latest version for your operating system from our [DOTEbase beta release GitHub repository](https://github.com/BigSoftVideo/DOTEbase-beta-testing/releases).
 You need to have an account on GitHub and that account be assigned to the repository for this link to work.
 Contact us on Discord if you have problems.
