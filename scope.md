@@ -10,7 +10,7 @@ There is no master DOTEspace that collects all other DOTEspaces under its wing.
 
 #### DOTEspace Crawler
 
-The [DOTEspace Crawler](dotespace.md) works behind the scenes scanning all watch folders across all DOTEspaces to find all _DOTE_ Projects and Transcripts.
+The [DOTEspace Crawler](dotespace.md) works behind the scenes scanning all watch folders across all DOTEspaces to find and update the cache with all _DOTE_ Projects and Transcripts.
 It is not limited to one DOTEspace or watch folder.
 
 ### Transcript
@@ -44,7 +44,7 @@ One _cannot_ search across ALL DOTEspaces.
 
 ### Clips Viewer
 
-The [Clips Viewer](clips-viewer.md) can show [Transcript and Media Clips](clips.md) in the current _DOTE_ Project that is open in _DOTEbase_ and it can broaden the scope to list all clips in selected Projects and Transcripts in or more DOTEspaces.
+The [Clips Viewer](clips-viewer.md) can show [Transcript and Media Clips](clips.md) in the current _DOTE_ Project that is open in _DOTEbase_, and it can broaden the scope to list all clips in selected Projects and Transcripts in or more DOTEspaces.
 
 ### Collections Browser
 
@@ -64,3 +64,4 @@ Each DOTEspace has one Canvas assigned to it.
 ### Export/Import
 
 [Export and Import](export.md) of only one selected DOTEspace at a time is allowed.
+Clip Collections can be included in the export, but only Collections that contain Clips in the exported DOTEspace will be included.
