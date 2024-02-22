@@ -70,7 +70,7 @@ It consists of all temporally synchronised media files and all [Transcripts](#do
 A _DOTE_ Transcript is a transcript created using our _DOTE_ software.
 It is a specific textual object that is contained within a [DOTE Project](#dote-project).
 
-### DOTEspace  <a id='workspace'></a>
+### DOTEspace  <a id='dotespace'></a>
 
 A DOTEspace is a workspace for working on thematically organised sets of _DOTE_ projects and transcripts that are distributed across your file system.
 
@@ -93,14 +93,14 @@ Without a valid license, _DOTEbase_ cannot be used.
 
 ### Line number <a id='line-number'></a>
 
-Line Numbers in Transcripts are inherited from _DOTE_.
+Line Numbers in a [Transcript](#transcript) are inherited from _DOTE_.
 They are identical to the virtual Line Numbers displayed in _DOTE_'s Transcript Editor.
 A temporary, unique number is assigned in ascending order to each and every line.
 It is not the same as the line numbering after exporting a transcript into RTF format, for example.
 
 ### Lock <a id='lock'></a>
 
-When viewing a Transcript in _DOTEbase_ that is already currently open in _DOTE_, then DOTEbase will lock that file so that [Transcript Clips](#transcript-clip) cannot be added or edited in _DOTEbase_.
+When viewing a [Transcript](#transcript) in _DOTEbase_ that is already currently open in _DOTE_, then DOTEbase will lock that file so that [Transcript Clips](#transcript-clip) cannot be added or edited in _DOTEbase_.
 One can still edit and add Transcript Clips in DOTE.
 
 ### Media Clip <a id='media-clip'></a>
@@ -187,20 +187,21 @@ In a [DOTEspace](#dotespace), a Transcript panel displays any [Transcript](#tran
 A User-defined Field is a special field that a user can define and assign to any [Clip](#clip).
 It has a name and a value.
 For example, the name could be defined in terms of a phenomenon, and a set of values used that qualify that phenomenon or a boolean value (yes/no) that can record if it is present or not in the Clip.
+If the name field is called "Name", then the corresponding value field will appear in some view modes that display Clips in specific tools, eg. the DOTEspace panel, the Clips Viewer, the Collection Viewer, and the Media Clips Organiser.
 User-defined Fields are searchable.
 
 ### User Interface (UI) <a id='ui'></a>
 
-The [User Interface](ui.md) is the visual (and aural) presentation of the computer application to the user.
+The [User Interface](layout.md) is the visual (and aural) presentation of the computer application to the user.
 
 ### Video-cue <a id='video-cue'></a>
 
-A [Video-cue](cues.md) in _DOTE_ is a unique point on the [Timeline](timeline.md) that indicates that a change in the [Viewport](#viewport) of the video in the  [Media Player](#media-player) is to be performed.
-This function automates the presentation of media during [Playback](play.md) in a more cinematic fashion.
+A [Video-cue](https://bigsoftvideo.github.io/DOTE/cues.html) in _DOTE_ is a unique point on the [Timeline](timeline.md) that indicates that a change in the [Viewport](#viewport) of the video in the  [Media Player](#media-player) is to be performed.
+This function automates the presentation of media during [Playback](media-player.md) in a more cinematic fashion.
 
 ### Viewport <a id='viewport'></a>
 
-The Viewport is the rectangular portion of the video that is currently visible in the frame of the [Media Player Panel](#media-player).
+The Viewport is the rectangular portion of the video that is currently visible in the frame of the [Media Player Panel](media-player.md).
 
 ### Warnings and Errors <a id='error'></a>
 
