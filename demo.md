@@ -18,3 +18,33 @@ After import, you can delete the downloaded file.
 2. Locate the file that you downloaded and import.
 3. The DOTEspace should appear in the list of DOTEspaces in the DOTEspaces panel.
 4. Have fun exploring the demo!
+
+### What is the content in the Lego Demo DOTEspace?
+
+The Lego Demo DOTEspace consists of the following structure:
+
+- Lego Demo DOTEspace (one watch folder)
+  - LEGO demo project 1 (including all active media)
+    - Media Clips
+    - Lego Transcript - Jefferson 1
+      - Transcript clips
+    - Lego Transcript - Mondadaian 1
+      - Transcript clips
+  - LEGO demo project 2 (including all active media)
+    - Lego Transcript - Jefferson 2
+      - Transcript clips
+    - Lego Transcript - Mondadaian 2 (blank)
+  - LEGO demo project 3 (including all active media)
+    - Lego Transcript - Jefferson 3
+      - Transcript clips
+    - Lego Transcript - Mondadaian 3 (blank)
+
+There are roughly 50 Transcript Clips and 15 Media Clips spread over all the Projects and Transcripts (not blank).
+
+- Roughly 10 Tags have been used to tag the Clips.
+- All the Clips are assigned a user-defined field `Name` that contains a short description.
+- Emojis have been used in some of the Tags and Name fields.
+- The Media Clips are organised in Tiers in the Media Clips Organiser.
+
+Included in the Demo is a small set of Collections and Sub-Collections, which each contain some Media and Transcript Clips.
+Note that parent Collections contain all the Clips of Sub-Collections, but the parent can contain clips that are not in the Sub-Collections.
