@@ -14,5 +14,5 @@ You may wish to select the best view mode from the toggle in the top right of th
 1. Use the mouse to draw a highlighted segment in the Timeline waveform.
 You may wish to adjust the waveform zoom to get a more accurate selection.
 1. Add New Clip from the Media Clips Organiser.
-You will need to add Tags and Comments if relevant.
+You will need to add [Tags](tags.md) and [Comments](comments.md) if relevant.
 You may also wish to select a current or create a new Tier on which to place the Clip.

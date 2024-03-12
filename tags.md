@@ -14,4 +14,6 @@ Also, filters can apply to the Clips Viewer and the Collection Viewer to include
 
 [![Tags](images/tags/tags2.png)](images/tags/tags2.png)
 
-Later, a Tag manager will be created in _DOTEbase_ to enable the user to add, delete and rename tags.
+### Tag Manager
+
+We are working on a Tag manager in _DOTEbase_ to enable the user to add, delete and rename tags.

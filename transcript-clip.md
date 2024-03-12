@@ -12,8 +12,9 @@ Transcript Clips (or T-clips) can be created and edited in _DOTE_ and _DOTEbase_
 Clips do not have to start and terminate at the beginning or end of lines.
 1. Then click the `CREATE CLIP` button in the respective Transcript panel.
 1. There are several options to fill out or select when creating the clip:
+  - Add [Tag(s)](tags.md)
   - Add a comment note
-  - Choose the styling (background/foreground colours) and visual style for the clip
+  - Choose the styling (background/foreground [colours](colour-manager.md)) and visual style for the clip
   - Add user-defined field names/values
 1. Click CREATE and the clip will be inserted and displayed in the Transcript.
 1. It will also be added to the list of clips in the current Project.
