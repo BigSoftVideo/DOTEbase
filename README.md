@@ -13,7 +13,7 @@ It provides a range of tools to annotate, tag, make clips, collect clips and mak
 
 ### What does _DOTEbase_ stand for?
 
-DOTEbase is derivative of [_DOTE_, our lovely transcription software package that was released in October 2022](https://www.dote.aau.dk).
+_DOTEbase_ is derivative of [_DOTE_, our lovely transcription software package that was released in October 2022](https://www.dote.aau.dk).
 _DOTE_ is an acronym for _Distributed Open Transcription Environment_.
 By extension, _DOTEbase_ is a Distributed Open Transcription Environment _database_.
 
