@@ -50,6 +50,12 @@ A [Collection Viewer](collection-viewer.md) is an ordered list of [Clips](#clip)
 
 A [Collections Browser](collections-browser.md) is an ordered list of all current [Clip Collections](#clip-collection).
 
+### Colour Swatch Manager <a id='swtach-manager'></a>
+
+Colours of Clips and Tiers can be managed in the [Colour Swatch Manager](colour-manager.md).
+Colours can be named, renamed and deleted, and applied across locally, in a DOTEspace or across all DOTEspaces.
+Swatch sets can be created to apply in a DOTEspace.
+
 ### Comment <a id='comment'></a>
 
 A Comment is a text field attached to [Clips](#clip).
@@ -144,6 +150,11 @@ _DOTEbase_ can [Search](search.md) in a DOTEspace for a text string in a variety
 
 A [Tag](tags.md) is a short, thematic text string that can be assigned to any [Clip](#clip).
 Tags are searchable and autocompleteable.
+
+### Tag Manager <a id='tag-manager'></a>
+
+[Tags](#tag) can be managed in the Tag Manager.
+They can be systematically renamed, deleted and merged with other Tags.
 
 ### Tier <a id='tier'></a>
 
