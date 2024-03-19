@@ -38,6 +38,7 @@ Here is a list of help tutorials on specific topics:
 - [Collections Browser](collections-browser.md) - organising all your clip collections
 - [Tags](tags.md) - tagging for everyone
 - [Comments](comments.md) - taking notes
+- [Colour Swatch Manager](colour-manager.md) - organise your colour schemes
 - [Search](search.md) - clever searching over all transcripts and clips
 - [Canvas](canvas.md) - visualising and mind mapping clips
 - [Export and Import a DOTEspace](export.md) - archiving and sharing your work
