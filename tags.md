@@ -16,4 +16,4 @@ Also, filters can apply to the Clips Viewer and the Collection Viewer to include
 
 ### Tag Manager
 
-We are working on a Tag manager in _DOTEbase_ to enable the user to add, delete and rename tags.
+We are working on a Tag manager in _DOTEbase_ to enable the user to add, delete and rename tags in and across DOTEspaces.
