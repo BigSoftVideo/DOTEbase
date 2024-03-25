@@ -27,19 +27,24 @@ If _DOTE_ is closed or a different Transcript is opened, then the Transcript is 
 
 T-clips can be edited and deleted.
 
-### Method 1
+#### Method 1
 
 - Hover over the clip and select the pencil edit or delete icon in the T-clip panel that opens.
 
 [![Transcript Clips](images/clips/t-clips-delete.png)](images/clips/t-clips-delete.png)
 
-### Method 2
+#### Method 2
 
 - Click uniquely inside the T-clip in a transcript panel.
 Make sure that the cursor is inside only one clip.
 - Select Delete Clip at Cursor.
 
-### Method 3
+#### Method 3
 
 - Find the clip in the Clips Viewer, the Collection Viewer or a Search result.
 - Click the pencil icon or the delete icon.
+
+### Sending a Transcript Clip to the Canvas
+
+Expanding a Transcript Clip in the Clips Viewer, the Collection Viewer or Search will reveal a button `Send to CANVAS`.
+Open the Canvas and the Clip will be available to drag onto the Canvas at the bottom right.

@@ -46,10 +46,12 @@ Also, a group of clips can be selected by pressing the `SHIFT` key and dragging 
 
 Hovering over a clip will reveal meta-data about the clip.
 
-Clips can be also added directly from the main _DOTEbase_ window in the Clips Viewer and the Collection Viewer.
+Clips can be also added directly from the main _DOTEbase_ window in the [Clips Viewer](clips-viewer.md), the [Collection Viewer](collection-viewer.md) and [Search](search.md).
 - Select a clip in one of those two panels, and click the right arrow  button to expand the clip details.
 - At the bottom is a `Send to CANVAS` button that will add that Clip to the Canvas.
 - If a Canvas is not currently open, it will be sent to the Canvas next time it is opened in the current session.
+
+Alternatively, for [Media Clips](media-clip.md) one can right click on a clip in the [Media Clips Organiser](media-clips-organiser.md) and select `Send Clip to Canvas`.
 
 By right clicking on the Canvas in blank space one can add ALL Clips in the current DOTEspace to the Canvas in one go.
 The Clips will be arranged in a random pattern on the Canvas.
@@ -57,12 +59,12 @@ This is not recommended when there are more than 20 Clips.
 
 ### Moving clips
 
-Clips can be selected and dragged to a new location.
+Clip nodes can be selected and dragged to a new location.
 
 ### Adding links between clips
 
 Links can be added that connect clips.
-To add a connection link, click on the link icon on one Clip and drag and drop it on another Clip.
+To add a connection link, click on the Clip and click on one of the link receptors, drag to another node receptor.
 
 The colour, type and shape of the line, as well as arrowheads and caption, can be changed in the line settings.
 
@@ -70,6 +72,22 @@ The colour, type and shape of the line, as well as arrowheads and caption, can b
 
 By right clicking on the Canvas in blank space one can insert a grouping box.
 Any clips placed within that box will be grouped together and can be moved together by dragging the box.
+
+### Adding Text nodes
+
+A Text node can be added by right clicking the Canvas and selecting `Add notes node`.
+An emoji icon can be added as well the font size/colour and shape of the node etc.
+
+A Text node can be linked to other nodes by selecting it and clicking one of the link receptors that are visible.
+Drag the line to another node receptor.
+
+### Adding labels
+
+A Label node can by added by right clicking the Canvas and selecting `Add label node`.
+The font size/colour can be changed as well as the shape of the node etc.
+
+A Lavel node can be linked to other nodes by selecting it and clicking one of the link receptors that are visible.
+Drag the line to another node receptor.
 
 ### Changing defaults in Settings
 
