@@ -8,7 +8,13 @@ A panel opens up on the right side.
 A colour can be selected by clicking on the colour wheel, entering a value or clicking on a swatch.
 The primary swatch will change colour to the value selected.
 
-If you wish to return to the previous colour before experimenting with swatchs in the Manager, then click the `Revert to Previous Colour button` when applicable.
+If you wish to return to the previous colour before experimenting with swatches in the Manager, then click the `Revert to Previous Colour button` when applicable.
+
+The Colour Swatch Manager has two sections:
+1. The top shows the colour wheel, HEX/RGB numbers and the options to create/edit a Preset.
+2. The bottom lists the Default Colours and the Swatch Presets, as well as any Colours/Presets in relevant DOTEspaces, Projects and Transcripts.
+
+Right clicking on a Preset gives a menu of choices, including renaming and deleting the Preset.
 
 ### Default Colours
 
@@ -24,6 +30,8 @@ An alternative is for the user to create named Colours as Presets and assemble t
 To save the current colour displayed in the primary swatch, click `Save as DOTEspace Preset` and enter a unique name.
 Select a DOTEspace to save the colour to and click `Save`.
 
+Note that Presets do not apply to the Canvas colours.
+
 ### Scope of Colour Swatch Sets
 
 The currently active Colours, including Default, user-specified and saved Presets, can be viewed by scope, eg. locally and by DOTEspace:
@@ -33,9 +41,14 @@ The currently active Colours, including Default, user-specified and saved Preset
 
 An indication of the scope of any set of swatches is indicated by an icon, eg. `D` for DOTEspace, `P` for Project and `T` for Transcript-Clip.
 
-Swatch sets are also divided into Saved Presets by DOTEspace and local Transcript or Media Clips.
+Swatch sets are also divided into saved Presets in the DOTEspace and those in local Transcripts or Projects in the current DOTEspace.
 
-It is not possible to filter in any other way (yet).
+It is not possible to filter or sort in any other way (yet).
 
-### Exporting and Importing Colours
+### Exporting and Importing Colour Presets
 
+Colours and Swatch Presets assigned in a DOTEspace are exportable and importable with that DOTEspace.
+
+Note that if you share an exported DOTEspace with someone else and they import it and they wish to use colours when adding/editing Clips and Tiers, they can also use the Presets you have defined in that DOTEspace.
+If they send you an exported DOTEspace (after editing), then when you import that DOTEspace, the same Presets will be present, but in the new DOTEspace (they cannot be merged).
+However, if they change a Preset colour or delete it, then those Presets will either not match the original Preset or not be present in the imported DOTEspace.
