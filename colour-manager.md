@@ -16,6 +16,8 @@ The Colour Swatch Manager has two sections:
 
 Right clicking on a Preset gives a menu of choices, including renaming and deleting the Preset.
 
+[![Colour Manager](images/colour/colour-wheel.png)](images/colour/colour-wheel.png)
+
 ### Default Colours
 
 Users can use a full range of colours to label their [Clips](clips.md) and [Tiers](media-clips-organiser.md).
@@ -24,6 +26,8 @@ For some functions, a transparency value (RGBA) can be selected to avoid one T-C
 
 The user can also select from a Default set of Colours listed as Swatches that are always available when using _DOTEbase_.
 
+[![Colour Manager](images/colour/colour-defaults.png)](images/colour/colour-defaults.png)
+
 ### Using Preset Colours
 
 An alternative is for the user to create named Colours as Presets and assemble them in a separate Swatch palette at the DOTEspace level, ie. your presets are available for any Clip or Tier in a single DOTEspace, though they can be applied in other DOTEspaces later.
@@ -31,6 +35,8 @@ To save the current colour displayed in the primary swatch, click `Save as DOTEs
 Select a DOTEspace to save the colour to and click `Save`.
 
 Note that Presets do not apply to the Canvas colours.
+
+[![Colour Manager](images/colour/colour-presets.png)](images/colour/colour-presets.png)
 
 ### Scope of Colour Swatch Sets
 
