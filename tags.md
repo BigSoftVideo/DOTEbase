@@ -42,19 +42,21 @@ One can open/view the entry that has a specific Tag assigned.
 ### Renaming Tags
 
 Right clicking on a Tag, brings up the `Rename` operation.
-All Clips that have been assigned that Tag can have that Tag renamed.
+All Clips in the current Scope that have been assigned that Tag will have that Tag renamed.
+
+[![Tag Manager](images/tags/tag-rename.png)](images/tags/tag-rename.png)
 
 ### Merging Tags
 
 Right clicking on a Tag, brings up the `Merge` operation.
 This will merge two Tags together under one unifying name.
-All Clips with one or both Tags will have both merged into one Tag.
-Thus, the number of Clips will usually increase in the new Tag listing.
+All Clips in the current Scope with one or both Tags will have both merged into one Tag.
+Thus, the number of Clips listed under the new Tag will usually increase in the new Tag listing.
 
 ### Deleting Tags
 
 Right clicking on a Tag, brings up the `Delete` operation.
-All Clips that have been assigned that Tag can have that Tag removed from those Clips.
+All Clips in the current Scope that have been assigned that Tag will have that Tag removed from those Clips.
 
 ### Tag Conflicts
 
