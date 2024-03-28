@@ -38,6 +38,13 @@ Note that Presets do not apply to the Canvas colours.
 
 [![Colour Manager](images/colour/colour-presets.png)](images/colour/colour-presets.png)
 
+### RGBA and transparency
+
+For some types of clips and/or visual styles, you will need to assign colours that have some transparency, otherwise other clips that overlap with or are within the boundaries of the clip will not be visible.
+
+You can add transparency by adjusting the horizontal slider just underneath the colour wheel.
+When you have the right amount of transparency, click the tick button to save the new RGBA colour and/or Preset.
+
 ### Scope of Colour Swatch Sets
 
 The currently active Colours, including Default, user-specified and saved Presets, can be viewed by scope, eg. locally and by DOTEspace:
