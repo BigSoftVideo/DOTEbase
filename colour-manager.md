@@ -58,6 +58,15 @@ Swatch sets are also divided into saved Presets in the DOTEspace and those in lo
 
 It is not possible to filter or sort in any other way (yet).
 
+Note that it is possible to use Presets from other DOTEspaces in the current DOTEspace.
+- First select the All DOTEspaces scope.
+- Locate the Swatch Preset from another DOTEspace.
+- This is now applied to the colour being edited, but it is not yet saved as a new Preset for the current DOTEspace.
+If you wish to create a new Preset and not just use the colour it represents, then continue...
+- Click the `Save as DOTEspace Preset` button
+- The same name is used, but now select the current DOTEspace in the list of `Select DOTEspaces to save to...`.
+- Save this new Preset (applicable to the current DOTEspace)
+
 ### Exporting and Importing Colour Presets
 
 Colours and Swatch Presets assigned in a DOTEspace are exportable and importable with that DOTEspace.
