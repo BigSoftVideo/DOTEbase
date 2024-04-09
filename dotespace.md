@@ -35,6 +35,64 @@ When a DOTEspace is selected in the DOTEspaces panel, it can be deleted using th
 The DOTEspace will be removed from the panel, including its watch folders.
 It is not recoverable.
 
+### Actions available in the DOTEspace panel
+
+The actions below are available for specific objects in the DOTEspace tree.
+
+#### DOTEspace
+
+- `Right click`
+    - Rename or Edit Details
+    - Add Watch Folder
+    - Delete
+    - Export
+- Icon
+    - Rename
+    - Add Watch Folder
+
+#### Watch-folder
+
+- `Right click`
+    - Open Folder Location
+    - Remove Watch Folder
+    - Create New Project (in same Watch Folder)
+- Icon
+    - Remove Watch Folder
+
+#### Project
+
+Projects are usually created and managed in _DOTE_, but certain actions can be launched from _DOTEbase_.
+
+- `Right click`
+    - Open
+    - Open Folder Location
+    - Rename Project
+    - Delete Project
+    - Create New Transcript (in current Project)
+- Icon
+    - View
+
+#### Transcript
+
+Transcripts are contained in Projects and they are usually created and edited in _DOTE_, but certain actions can be launched from _DOTEbase_.
+
+- `Right click`
+    - Open
+    - Open Folder Location
+    - Rename Transcript
+    - Delete Transcript
+- Icon
+    - View
+
+#### Clip
+
+[Transcript Clips](transcript-clip.md) can be created and edited in _DOTEbase_ and _DOTE_, but [Media Clips](media-clip.md) can only be created and edited in _DOTEbase_.
+
+- `Right click`
+    - View
+- Icon
+    - View
+
 ### Notes
 
 NOTE that DOTEspaces are not encrypted on your computer.
