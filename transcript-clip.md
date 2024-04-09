@@ -53,6 +53,8 @@ The scope of a T-Clip can be adjusted using the `Edit Selection` button at the t
 - Make a new selection for the scope of the T-clip by dragging the cursor from the onset to the offset character.
 - Click `APPLY NEW SELECTION` button.
 
+[![T-Clip Scope](images/clips/clip-scope.png)](images/clips/clip-scope.png)
+
 ### Sending a Transcript Clip to the Canvas
 
 Expanding a Transcript Clip in the Clips Viewer, the Collection Viewer or Search will reveal a button `Send to CANVAS`.
