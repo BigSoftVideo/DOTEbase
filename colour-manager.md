@@ -53,13 +53,14 @@ The currently active Colours, including Default, user-specified and saved Preset
 - All are shown across all DOTEspaces.
 
 An indication of the scope of any set of swatches is indicated by an icon, eg. `D` for DOTEspace, `P` for Project and `T` for Transcript-Clip.
+There is also a special icon to signal colours found in M-Clip Tiers.
 
-Swatch sets are also divided into saved Presets in the DOTEspace and those in local Transcripts or Projects in the current DOTEspace.
+Swatch sets are also divided into saved Presets in the DOTEspace and those in local Transcripts or Projects or Tiers in the current DOTEspace.
 
 It is not possible to filter or sort in any other way (yet).
 
 Note that it is possible to use Presets from other DOTEspaces in the current DOTEspace.
-- First select the All DOTEspaces scope.
+- First select the `All DOTEspaces` scope.
 - Locate the Swatch Preset from another DOTEspace.
 - This is now applied to the colour being edited, but it is not yet saved as a new Preset for the current DOTEspace.
 If you wish to create a new Preset and not just use the colour it represents, then continue...
