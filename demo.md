@@ -26,20 +26,20 @@ After import, you can delete the downloaded file.
 The Lego Demo DOTEspace consists of the following structure:
 
 - Lego Demo DOTEspace (one watch folder)
-  - LEGO demo project 1 (including all active media)
-    - Media Clips
-    - Lego Transcript - Jefferson 1
-      - Transcript clips
-    - Lego Transcript - Mondadaian 1
-      - Transcript clips
-  - LEGO demo project 2 (including all active media)
-    - Lego Transcript - Jefferson 2
-      - Transcript clips
-    - Lego Transcript - Mondadaian 2 (blank)
-  - LEGO demo project 3 (including all active media)
-    - Lego Transcript - Jefferson 3
-      - Transcript clips
-    - Lego Transcript - Mondadaian 3 (blank)
+    - LEGO demo project 1 (including all active media)
+        - Media Clips
+        - Lego Transcript - Jefferson 1
+            - Transcript clips
+        - Lego Transcript - Mondadaian 1
+            - Transcript clips
+    - LEGO demo project 2 (including all active media)
+        - Lego Transcript - Jefferson 2
+            - Transcript clips
+        - Lego Transcript - Mondadaian 2 (blank)
+    - LEGO demo project 3 (including all active media)
+        - Lego Transcript - Jefferson 3
+            - Transcript clips
+        - Lego Transcript - Mondadaian 3 (blank)
 
 There are roughly 50 Transcript Clips and 15 Media Clips spread over all the Projects and Transcripts.
 
@@ -51,3 +51,5 @@ There are roughly 50 Transcript Clips and 15 Media Clips spread over all the Pro
 
 Included in the Demo is a small set of Collections and Sub-Collections, which each contain some Media and Transcript Clips.
 Note that parent Collections contain all the Clips of Sub-Collections, yet the parent can contain clips that are not in the Sub-Collections.
+Also included is a Canvas populated with Clips and Connectors, boxes, shapes, etc.
+We recommend that you import it, too.
