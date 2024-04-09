@@ -25,6 +25,8 @@ If a Transcript is open in _DOTE_, then T-Clips in that Transcript cannot be edi
 _DOTE_ locks the Transcript for editing.
 If _DOTE_ is closed or a different Transcript is opened, then the Transcript is released and can be edited again in _DOTEbase_.
 
+### Editing and deleting Transcript Clips
+
 T-clips can be edited and deleted.
 
 #### Method 1
@@ -43,6 +45,13 @@ Make sure that the cursor is inside only one clip.
 
 - Find the clip in the Clips Viewer, the Collection Viewer or a Search result.
 - Click the pencil icon or the delete icon.
+
+### Changing the scope of an existing T-Clip
+
+The scope of a T-Clip can be adjusted using the `Edit Selection` button at the top of the Edit T-Clip box.
+- Scroll to find the original clip.
+- Make a new selection for the scope of the T-clip by dragging the cursor from the onset to the offset character.
+- Click `APPLY NEW SELECTION` button.
 
 ### Sending a Transcript Clip to the Canvas
 
