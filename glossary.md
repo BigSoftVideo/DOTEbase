@@ -22,13 +22,13 @@ An Annotation is a plain text note called a [Comment](#comment) about a specific
 ### Cache <a id='cache'></a>
 
 _DOTEbase_ keeps a record (cache) of the last known _DOTE_ relevant folders/files and their location.
-Thus, _DOTEbase_ can display and use some information about the whole DOTEspace even when some Projects/Transcripts and their Clips are not currently available.
+Thus, _DOTEbase_ can display and use some information about the whole DOTEspace even when some Projects/Transcripts and their Clips are not currently available (eg. they are offline or not plugged in).
 
 ### Canvas <a id='canvas'></a>
 
-A [Canvas](canvas.md) is a visual representation of states and relationships between a variety of objects in and across [DOTEspaces](#dotespace).
-For example, representations of [Transcript Clips](#transcript-clip), [Media Clips](#media-clip), [Tags](#tag), [Clip Collections](#clip-collection), etc. can be dragged and dropped onto the independent Canvas.
-Relationships between objects can be constructed using a basic set of icons, arrowheads, lines and borders.
+A [Canvas](canvas.md) is a visual representation of states and relationships between a variety of nodes in and across [DOTEspaces](#dotespace).
+For example, representations of [Transcript Clips](#transcript-clip), [Media Clips](#media-clip), [Tags](#tag), [Clip Collections](#clip-collection), etc. can be dragged and dropped as a node onto the independent Canvas.
+Relationships between nodes can be constructed using a basic set of icons, arrowheads, lines and borders.
 
 ### Clip <a id='clip'></a>
 
@@ -50,11 +50,12 @@ A [Collection Viewer](collection-viewer.md) is an ordered list of [Clips](#clip)
 
 A [Collections Browser](collections-browser.md) is an ordered list of all current [Clip Collections](#clip-collection).
 
-### Colour Swatch Manager <a id='swtach-manager'></a>
+### Colour Swatch Manager <a id='swatch-manager'></a>
 
 Colours of Clips and Tiers can be managed in the [Colour Swatch Manager](colour-manager.md).
-Colours can be named, renamed and deleted, and applied across locally, in a DOTEspace or across all DOTEspaces.
-Swatch sets can be created to apply in a DOTEspace.
+A Colour Swatch is a specific colour that can be applied in other contexts.
+Colour Swatches can be named (Presets), renamed and deleted, and applied across locally, in a [DOTEspace](dotespace.md) or across all DOTEspaces.
+Swatch sets consisting of Presets can be created in a DOTEspace and applied to other DOTEspaces.
 
 ### Comment <a id='comment'></a>
 
@@ -68,12 +69,12 @@ It can also be initiated manually.
 
 ### _DOTE_ Project <a id='dote-project'></a>
 
-A _DOTE_ Project is a container created using our _DOTE_ software.
+A _DOTE_ Project is a container created using our [_DOTE_ software](https://bigsoftvideo.github.io/DOTE/).
 It consists of all temporally synchronised media files and all [Transcripts](#dote-transcript) associated with one continuous event.
 
 ### _DOTE_ Transcript <a id='dote-transcript'></a>
 
-A _DOTE_ Transcript is a transcript created using our _DOTE_ software.
+A _DOTE_ Transcript is a transcript created using our [_DOTE_ software](https://bigsoftvideo.github.io/DOTE/).
 It is a specific textual object that is contained within a [DOTE Project](#dote-project).
 
 ### DOTEspace  <a id='dotespace'></a>
@@ -89,7 +90,7 @@ See [Import](#import).
 
 ### Import <a id='import'></a>
 
-A single DOTEspace can be imported into _DOTEbase_.
+A single [DOTEspace](dotespace.md) can be imported into _DOTEbase_.
 To do so, a DOTEspace has to [Exported](#export) from _DOTEbase_ into a `.dotebase` file, which can be shared or archived.
 
 ### License <a id='license'></a>
@@ -158,8 +159,8 @@ They can be systematically renamed, deleted and merged with other Tags.
 
 ### Tier <a id='tier'></a>
 
-Tiers and subtiers are usually found in Transcripts, but in _DOTEbase_ Media Clips can be organised on their own [Tiers](media-clips-organiser.md).
-Tiers can be created, renamed and colour coded.
+Tiers and subtiers are usually found in Transcripts, but in _DOTEbase_ [Media Clips](media-clip.md) can be organised on their own [Tiers](media-clips-organiser.md).
+Tiers can be created, renamed and [colour coded](colour-manager.md).
 Media Clips can be dragged between Tiers.
 
 ### Timecode (or Timestamp) <a id='timecode'></a>
