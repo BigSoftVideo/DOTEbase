@@ -65,3 +65,12 @@ Each DOTEspace has one Canvas assigned to it.
 
 [Export and Import](export.md) of only one selected DOTEspace at a time is allowed.
 Clip Collections can be included in the export, but only Collections that contain Clips in the exported DOTEspace will be included.
+
+### Tag Manager
+
+The [Tag Manager](tags.md#tag-manager) can display and edit Tags in different scopes, eg. Local, DOTEspace, selected DOTEspace and All DOTEspaces.
+
+### Colour Swatch Manager
+
+The [Colour Swatch Manager](colour-manager.md) allows User-defined Presets that are attached to a DOTEspace but can be copied across All DOTEspaces.
+Otherwise, Colours are applied locally to a Clip or Tier.
