@@ -5,9 +5,10 @@ This is good for mind-mapping as a perspective or an analysis is developing whil
 
 At present, only one Canvas can be opened for each DOTEspace.
 Each Canvas is stored and will be reopened when selected the next time you restart _DOTEbase_.
+A Canvas can be [exported and imported](export.md) with its DOTEspace.
 
 The Canvas space is infinite in all directions.
-One can add clusters of Clips in multiple locations on the Canvas, though with 100s of clips it may become cluttered.
+One can add clusters of [Clips](clips.md) in multiple locations on the Canvas, though with 100s of clips it may become cluttered.
 
 Note that unlike for the main DOTEbase tools, actions on the Canvas (moving clips, connecting lines etc) can be undone and redone (see the buttons on the bottom left of the Canvas panel).
 
@@ -33,7 +34,7 @@ Use the square button to fit everything in and re-centre
 One can also clean the Canvas completely to start from square one again.
 The old Canvas cannot be recovered.
 
-### Adding a clip to the canvas
+### Adding a Clip to the canvas
 
 On the right is a list of all clips in the current DOTEspace.
 Clips can be filtered in two ways, by level and by search item.
@@ -59,21 +60,23 @@ This is not recommended when there are more than 20 Clips.
 
 ### Moving clips
 
-Clip nodes can be selected and dragged to a new location.
+Clip nodes can be selected individually and dragged to a new location.
+Or they can be selected as a group by clicking and dragging a virtual rectangle to encompass a number of clips.
+Or they can be selected accumulatively by clicking on each node while pressing the `CTRL` key.
 
-### Adding links between clips
+### Adding a link between clips and other nodes
 
-Links can be added that connect clips.
+Links can be added that connect clips and other nodes.
 To add a connection link, click on the Clip and click on one of the link receptors, drag to another node receptor.
 
 The colour, type and shape of the line, as well as arrowheads and caption, can be changed in the line settings.
 
-### Adding Groups
+### Adding a Group
 
 By right clicking on the Canvas in blank space one can insert a grouping box.
 Any clips placed within that box will be grouped together and can be moved together by dragging the box.
 
-### Adding Text nodes
+### Adding a Text node
 
 A Text node can be added by right clicking the Canvas and selecting `Add notes node`.
 An emoji icon can be added as well the font size/colour and shape of the node etc.
@@ -81,7 +84,7 @@ An emoji icon can be added as well the font size/colour and shape of the node et
 A Text node can be linked to other nodes by selecting it and clicking one of the link receptors that are visible.
 Drag the line to another node receptor.
 
-### Adding labels
+### Adding a Label node
 
 A Label node can by added by right clicking the Canvas and selecting `Add label node`.
 The font size/colour can be changed as well as the shape of the node etc.
