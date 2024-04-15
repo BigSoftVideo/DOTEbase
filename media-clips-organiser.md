@@ -13,9 +13,22 @@ Note that these have nothing to do with Transcripts and are not a form of score-
 - Any number of Tiers can be created (Name and [Colour](colour-manager.md)).
 - Use the Settings in the Media Clips Organiser to adjust the colour and order of the Tiers.
 - Media Clips can be assigned to any Tier.
-- Clips can be moved between Tiers using the Clip Move mode.
-- Clips can be locked to avoid accidental movement or adjustment.
-- Clips can be adjusted in length using the Adjust boundaries mode.
+- Clips can be moved between Tiers using the Tier Mode.
+- Clips can be locked using the Tier Mode to avoid accidental movement or adjustment.
+- Clips can be adjusted in length using the Adjust boundaries Tier Mode.
 - Clip details ([Tag](tags.md), UDF) can be shown in Clip objects in all Tiers.
+
+[![Media clips organiser](images/clips/m-clips-org2.png)](images/clips/m-clips-org2.png)
+
+The Tier Mode has three states:
+1. Lock Tiers and Clips
+2. Enable moving Clips between Tiers
+3. Enable dragging Clips along a Tier
+
+[![Media clips organiser](images/clips/m-clips-org3.png)](images/clips/m-clips-org3.png)
+
+Also a naming filter can be applied that shows:
+- List of assigned Tags
+- User-defined Name field
 
 Note that Media Clips cannot be created, viewed or edited in _DOTE_, unlike Transcript Clips.
