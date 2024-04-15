@@ -6,6 +6,10 @@ Here you will find ideas and solutions to specific tasks that you might wish to 
 - [What _DOTEbase_ is...](#tip2)
 - [What _DOTEbase_ isn't...](#tip3)
 - [How can I use _DOTEbase_ to support my qualitative analytical practices](#tip4)
+- [How do I setup your audio-visual media and transcripts for use in _DOTEbase_](#tip8)
+- [How do I backup your DOTEspace?](#tip5)
+- [How do I add a whole tier with media clips to the Canvas?](#tip6)
+- [What to do if you run out of devices when activating your paid license?](#tip7)
 
 ### Important things to note? <a id='tip1'></a>
 
@@ -49,3 +53,36 @@ There are lots of ways to use _DOTEbase_ to support what you do and also to enco
 See [our list](use-cases.md) that outlines some of them.
 We are always open to new uses of DOTEbase or ideas for new tools.
 Let us know by [email](email:dote@ikl.aau.dk) or on one of the _DOTEbase_ channels on our [Discord server](https://discord.gg/8BmuHP7xh4).
+
+### How do I setup your audio-visual media and transcripts for use in _DOTEbase <a id='tip8'></a>
+
+It is important to remember that DOTEbase feeds off of individual projects created in _DOTE_.
+One cannot add audio-visual files and text transcripts that are not already prepared with _DOTE_.
+The reason is that there isn't any relevant metadata in a file or document on its own.
+Hence, one must at a minimum [create a project with a blank transcript in DOTE](https://bigsoftvideo.github.io/DOTE/projects.html) in one of the [watch folders](dotespace.md) that are tracked by a DOTEspace.
+New Projects and Transcripts can be created at any time; as long as they are in one of the watch folders, _DOTEbase_ will find them and add them to the relevant DOTEspaces.
+Media can be added and more Transcripts can be added to that _DOTE_ Project or edited; _DOTEbase_ will track all the changes.
+
+### How do I backup your DOTEspace? <a id='tip5'></a>
+
+There is no dedicated autobackup system yet in _DOTEbase_, but you can manually archive the whole DOTEspace as follows:
+- Select the DOTEspace you wish to archive.
+- Select `FILE/EXPORT` from the menu bar to [export the DOTEspace](export.md).
+- Select all checkpoints, autobackups, colllections data, Canvas data, clips etc.
+- Export to a safe location on your file system.
+- Then you can safely import the archive at a later point.
+
+### How do I add a whole tier with media clips to the Canvas? <a id='tip6'></a>
+
+One can Send individual Clips to the [Canvas](canvas.md), but there is also a way to send a whole [Tier](media-clips-organiser.md) of [Media Clips](media-clip.md) to the Canvas.
+- Open the [Media Clips Organiser](media-clips-organiser.md).
+- Right click on a designated Tier.
+- Select `Send Tier to Canvas`.
+- Open the Canvas for that DOTEspace.
+- All the clips in that Tier will be listed next to the Canvas and can be dragged and dropped.
+
+### What to do if you run out of devices when activating your paid license? <a id='tip7'></a>
+
+If you have no more devices available on your license, then you may have to deactivate some of the devices for _DOTE_ and/or _DOTEbase_.
+_DOTE_ and _DOTEbase_ share the same license, and each uses one device per installation. Thus, installing both uses two devices.
+See [License Activation](license-activation.md) for more help.
