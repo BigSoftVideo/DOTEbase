@@ -57,7 +57,7 @@ Clips can be also added directly from the main _DOTEbase_ window in the [Clips V
 
 [![Send to Canvas](images/canvas/canvas-send.png)](images/canvas/canvas-send.png)
 
-Alternatively, for [Media Clips](media-clip.md) one can right click on a clip in the [Media Clips Organiser](media-clips-organiser.md) and select `Send Clip to Canvas`.
+Alternatively, for [Media Clips](media-clip.md) one can right click on a clip in the [Media Clips Organiser](media-clips-organiser.md) and select `Send Clip to Canvas` or `Send Tier to Canvas` with all clips on that Tier sent.
 
 By right clicking on the Canvas in blank space one can add ALL Clips in the current DOTEspace to the Canvas in one go.
 The Clips will be arranged in a random pattern on the Canvas.
