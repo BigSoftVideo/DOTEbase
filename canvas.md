@@ -34,10 +34,13 @@ Use the square button to fit everything in and re-centre
 One can also clean the Canvas completely to start from square one again.
 The old Canvas cannot be recovered.
 
+[![Canvas example](images/canvas/canvas-example2.png)](images/canvas/canvas-example2.png)
+
 ### Adding a Clip to the canvas
 
 On the right is a list of all clips in the current DOTEspace.
-Clips can be filtered in two ways, by level and by search item.
+Clips can be filtered in two ways, by level and by search string.
+For example, one can restrict the list of clips displayed to a specific Project or Transcript.
 
 A clip can be dragged and dropped onto the Canvas (no limit to how many times a clip can be added to each Canvas).
 Once on the Canvas, properties such as icon or custom emoji can be changed by clicking on the clip to open up the clip node settings.
@@ -51,6 +54,8 @@ Clips can be also added directly from the main _DOTEbase_ window in the [Clips V
 - Select a clip in one of those two panels, and click the right arrow  button to expand the clip details.
 - At the bottom is a `Send to CANVAS` button that will add that Clip to the Canvas.
 - If a Canvas is not currently open, it will be sent to the Canvas next time it is opened in the current session.
+
+[![Send to Canvas](images/canvas/canvas-send.png)](images/canvas/canvas-send.png)
 
 Alternatively, for [Media Clips](media-clip.md) one can right click on a clip in the [Media Clips Organiser](media-clips-organiser.md) and select `Send Clip to Canvas`.
 
@@ -76,6 +81,8 @@ The colour, type and shape of the line, as well as arrowheads and caption, can b
 By right clicking on the Canvas in blank space one can insert a grouping box.
 Any clips placed within that box will be grouped together and can be moved together by dragging the box.
 
+[![Canvas right click](images/canvas/canvas-extras.png)](images/canvas/canvas-extras.png)
+
 ### Adding a Text node
 
 A Text node can be added by right clicking the Canvas and selecting `Add notes node`.
@@ -96,6 +103,8 @@ Drag the line to another node receptor.
 
 A number of default settings can be changed in Settings that apply to all Canvases.
 Click the `Settings` button.
+
+[![Canvas settings](images/canvas/canvas-settings.png)](images/canvas/canvas-settings.png)
 
 - General
   - Background - what type of background to the Canvas
