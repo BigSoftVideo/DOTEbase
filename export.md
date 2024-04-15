@@ -14,7 +14,7 @@ The default is ALL.
 1. Select `Browse` to find a location for the archive file to be generated.
 2. Select `Export` and choose a filename.
 
-[![Export](images/dotespace/export.png)](images/dotespace/export.png)
+[![Export](images/export/export.png)](images/export/export.png)
 
 NOTE that if any Projects/Transcripts are not online at the moment (eg. the drive is not available), then a cached version will be exported.
 The inaccessible Project/Transcript(s) will be marked with a red bar (see above).
@@ -27,7 +27,7 @@ If this concerns you, then encrypt the DOTEspace export file using your preferre
 
 ### How to import a DOTEspace
 
-[![Export](images/dotespace/import.png)](images/dotespace/import.png)
+[![Export](images/export/import.png)](images/export/import.png)
 
 1. If you have received a DOTEspace archive file, then select `File/Import DOTEspace`.
 1. Locate the file on your file system.
