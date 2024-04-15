@@ -54,9 +54,9 @@ See [our list](use-cases.md) that outlines some of them.
 We are always open to new uses of DOTEbase or ideas for new tools.
 Let us know by [email](email:dote@ikl.aau.dk) or on one of the _DOTEbase_ channels on our [Discord server](https://discord.gg/8BmuHP7xh4).
 
-### How do I setup my audio-visual media and transcripts for use in _DOTEbase <a id='tip8'></a>
+### How do I setup my audio-visual media and transcripts for use in _DOTEbase_ <a id='tip8'></a>
 
-It is important to remember that DOTEbase feeds off of individual projects created in _DOTE_.
+It is important to remember that _DOTEbase_ feeds off of individual projects created in _DOTE_.
 One cannot add audio-visual files and text transcripts that are not already prepared with _DOTE_.
 The reason is that there isn't any relevant metadata in a file or document on its own.
 Hence, one must at a minimum [create a project with a blank transcript in DOTE](https://bigsoftvideo.github.io/DOTE/projects.html) in one of the [watch folders](dotespace.md) that are tracked by a DOTEspace.
@@ -66,10 +66,10 @@ Media can be added and more Transcripts can be added to that _DOTE_ Project or e
 ### How do I backup my DOTEspace? <a id='tip5'></a>
 
 There is no dedicated autobackup system yet in _DOTEbase_, but you can manually archive the whole DOTEspace as follows:
-- Select the DOTEspace you wish to archive.
 - Select `FILE/EXPORT` from the menu bar to [export the DOTEspace](export.md).
+- Select the DOTEspace you wish to archive from the drop-down list.
 - Select all checkpoints, autobackups, colllections data, Canvas data, clips etc.
-- Export to a safe location on your file system.
+- Export to a safe location on your file system. Give it a clear name with a date + time stamp.
 - Then you can safely import the archive at a later point.
 
 ### How do I add a whole tier with media clips to the Canvas? <a id='tip6'></a>
@@ -84,5 +84,5 @@ One can Send individual Clips to the [Canvas](canvas.md), but there is also a wa
 ### What to do if you run out of devices when activating your paid license? <a id='tip7'></a>
 
 If you have no more devices available on your license, then you may have to deactivate some of the devices for _DOTE_ and/or _DOTEbase_.
-_DOTE_ and _DOTEbase_ share the same license, and each uses one device per installation. Thus, installing both uses two devices.
+_DOTE_ and _DOTEbase_ share the same license, and each uses one device per installation. Thus, installing both uses two devices from your quota.
 See [License Activation](license-activation.md) for more help.
