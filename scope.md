@@ -25,7 +25,8 @@ Depending on the selected view mode, it displays the relevant media source in th
 
 ### Timeline
 
-The [Timeline](timeline.md) only shows the waveform for the currently open Project according to the options selected for tracking audio and waveform sources.
+The [Timeline](timeline.md) only shows a waveform for the currently open Project according to the options selected for tracking audio and waveform sources.
+The user can choose to display the waveform for an audio or video source that is not currently displayed in the Media Player.
 
 ### Media Clips Organiser
 
@@ -59,16 +60,16 @@ Those Clips could originate from any DOTEspace.
 ### Canvas
 
 The [Canvas](canvas.md) operates at the level of one selected DOTEspace.
-Each DOTEspace has one Canvas assigned to it.
+Each DOTEspace has one and only one Canvas assigned to it.
 
 ### Export/Import
 
 [Export and Import](export.md) of only one selected DOTEspace at a time is allowed.
-Clip Collections can be included in the export, but only Collections that contain Clips in the exported DOTEspace will be included.
+Clip Collections can be included in the export, but only Clips in the exported DOTEspace will be included in those exported Clip Collections.
 
 ### Tag Manager
 
-The [Tag Manager](tags.md#tag-manager) can display and edit Tags in different scopes, eg. Local, DOTEspace, selected DOTEspace and All DOTEspaces.
+The [Tag Manager](tags.md#tag-manager) can display and edit Tags with different scopes, eg. Local, DOTEspace, selected DOTEspace(s) and All DOTEspaces.
 
 ### Colour Swatch Manager
 
