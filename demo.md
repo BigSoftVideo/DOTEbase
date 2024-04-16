@@ -41,15 +41,15 @@ The Lego Demo DOTEspace consists of the following structure:
             - Transcript clips
         - Lego Transcript - Mondadaian 3 (blank)
 
-There are roughly 50 Transcript Clips and 15 Media Clips spread over all the Projects and Transcripts.
+There are roughly 50 [Transcript Clips](transcript-clip.md) and 15 [Media Clips](media-clip.md) spread over all the Projects and Transcripts.
 
-- Roughly 10 Tags have been used to tag the Clips.
+- Roughly 10 [Tags](tags.md) have been used to tag the Clips.
 - All the Clips are assigned a user-defined field `Name` that contains a short description.
 - Emojis have been used in some of the Tags and Name fields.
 - The Media Clips are organised in Tiers in the Media Clips Organiser.
-- Note that some of the Transcripts are shells with no content (blank).
+- Note that some of the Transcripts are shells with no content (just some meta-data).
 
-Included in the Demo is a small set of Collections and Sub-Collections, which each contain some Media and Transcript Clips.
+Included in the Demo is a small set of [Clip Collections and Sub-Collections](clip-collections.md), which each contain some Media and Transcript Clips.
 Note that parent Collections contain all the Clips of Sub-Collections, yet the parent can contain clips that are not in the Sub-Collections.
-Also included is a Canvas populated with Clips and Connectors, boxes, shapes, etc.
+Also included is a [Canvas](canvas.md) populated with Clips and Connectors, boxes, shapes, etc.
 We recommend that you import it, too.
