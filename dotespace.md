@@ -31,9 +31,10 @@ In the DOTEspace panel, Media and Transcript Clips can have different statuses (
 
 ### Deleting a DOTEspace
 
-When a DOTEspace is selected in the DOTEspaces panel, it can be deleted using the `Delete Current DOTEspace` button.
+When a DOTEspace is selected in the DOTEspace panel, it can be deleted using the `Delete Current DOTEspace` button.
 The DOTEspace will be removed from the panel, including its watch folders.
-It is not recoverable.
+The DOTEspace configuration is not recoverable.
+Note that the data stored in those watch folders is NOT deleted, just the pointers to watch folders in the named DOTEspace.
 
 ### Actions available in the DOTEspace panel
 
