@@ -11,6 +11,8 @@ If a remote drive goes offline, then _DOTEbase_ will use the cached version unti
 
 It provides a range of tools to annotate, tag, make clips, collect clips and make visual mind maps of the data over time.
 
+[![DOTEbase](images/layout/dotebase.png)](images/layout/dotebase.png)
+
 ### What does _DOTEbase_ stand for?
 
 _DOTEbase_ is derivative of [_DOTE_, our lovely transcription software package that was released in October 2022](https://www.dote.aau.dk).
@@ -31,6 +33,8 @@ If you have already purchased _DOTE_ before _DOTEbase_ was released, then it is 
 _DOTEbase_ is a standalone software package, but it relies entirely on _DOTE_ for organising audio-visual media and transcripts.
 
 See the instructions to register _DOTEbase_ using your _DOTE_ [license](license-activation.md).
+
+[![Canvas](images/canvas/canvas-example2.png)](images/canvas/canvas-example2.png)
 
 ### How do I get help?
 
