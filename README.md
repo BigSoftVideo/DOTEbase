@@ -1,6 +1,6 @@
 # What is _DOTEbase_?
 
-_DOTEbase_ is our prototype software package that is designed to support qualitative analysis of large audio-visual data sets.
+_DOTEbase_ is our software package that is designed to support qualitative analysis of large audio-visual data sets.
 
 We built it because we wanted a software tool to help researchers to analyse larger corpora of data, either before they have been transcribed or after.
 
@@ -28,7 +28,7 @@ It has been designed by qualitative researchers in discourse studies and social 
 
 If you purchase _DOTE_, then _DOTEbase_ is free.
 If you have already purchased _DOTE_ before _DOTEbase_ was released, then it is free.
-_DOTEbase_ is a standalone software package, but it relies entirely on _DOTE_.
+_DOTEbase_ is a standalone software package, but it relies entirely on _DOTE_ for organising audio-visual media and transcripts.
 
 See the instructions to register _DOTEbase_ using your _DOTE_ [license](license-activation.md).
 
