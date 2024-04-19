@@ -1,4 +1,4 @@
-## Help guide for _DOTEbase_ beta release v1.0.0-beta1
+## Help guide for _DOTEbase_ beta release v1.0.0-beta-3
 
 This help guide provides you with instructions to get started with basic and more advanced tasks...
 
@@ -9,7 +9,7 @@ _DOTEbase_ can be installed on the Microsoft Windows and Apple macOS desktop pla
 - Please follow the [instructions to install, update or upgrade](install.md).
 - You will also need to update _DOTE_ to use a beta release that integrates with _DOTEbase_.
 
-### _DOTEbase_ Lego demo workspace
+### Import the Lego demo DOTEspace
 
 We have assembled a simple DOTEspace based on our legendary Lego Demo Project, which we originally made for _DOTE_.
 See the original _DOTE_ version here: [https://bigsoftvideo.github.io/DOTE/demo.html](https://bigsoftvideo.github.io/DOTE/demo.html)
@@ -52,23 +52,24 @@ We have made a bunch of [video tutorials](tutorials.md) you can view to learn ho
 
 ### User bug reports
 
-How to enter a [bug report issue](https://github.com/BigSoftVideo/DOTEbase-beta-testing/issues/new/choose) if you find anything that doesn't seem to work.
+How to enter a [bug report issue](https://github.com/BigSoftVideo/DOTEbase/issues/new/choose) if you find anything that doesn't seem to work.
 
 In many cases it helps us if you attach the [_DOTEbase_ logfile](logfile.md) to the bug report.
 The folder on your computer in which the logfiles are stored can be accessed by the link under the `Help` menu.
 
 ### User feature requests
 
-How to enter an idea you have for a [feature or enhancement](https://github.com/BigSoftVideo/DOTEbase-beta-testing/issues/new/choose) to _DOTE_.
+How to enter an idea you have for a [feature or enhancement](https://github.com/BigSoftVideo/DOTEbase/issues/new/choose) to _DOTE_.
 
 ### Tracking bugs and features as a user
 
-You will be able to track bugs and features in our [project board](https://github.com/BigSoftVideo/DOTEbase-beta-testing/projects/1).
+You will be able to track bugs and features in our [project board](https://github.com/BigSoftVideo/DOTEbase/projects/1).
 
 ### Suggestions for help pages and tutorials
 
-Please [submit a suggestion](https://github.com/BigSoftVideo/DOTEbase-beta-testing/issues/new/choose) for how we can improve the help pages and guide, as well as ideas for video tutorials.
+Please [submit a suggestion](https://github.com/BigSoftVideo/DOTEbase/issues/new/choose) for how we can improve the help pages and guide, as well as ideas for video tutorials.
 
 ### Using our _DISCORD_ server
 
-If you haven't already, please join our BigVideo Discord server and we will assign you to the private channels for beta-testers: [Discord server](https://discord.gg/8BmuHP7xh4).
+If you haven't already, please join our BigVideo Discord server: [Discord server](https://discord.gg/8BmuHP7xh4).
+There are public channels for _DOTEbase_ and private ones for purchasers of the `Pro` or `Pro Community` Edition licenses from our webshop.
