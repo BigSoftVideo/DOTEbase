@@ -14,8 +14,7 @@ Choose the latest version for your operating system from our [DOTEbase beta rele
 You need to have an account on GitHub and that account be assigned to the repository for this link to work.
 Contact us on Discord if you have problems.
 
-You will also need to update _DOTE_ to a beta release.
-The current beta release is also listed for download on the GitHub site.
+You will also need to update _DOTE_ to `v1.1.0+`.
 
 - **Windows**
   - To install the Windows version, `double click` on the `EXE` file.
@@ -72,7 +71,7 @@ This is a local problem with how your computer has been setup by a security cons
 
 _DOTEbase_ relies on _DOTE_ to create audio waveforms when a project/transcript is created and video/audio files are imported.
 
-Refer to _DOTE_'s help guide for more information. 
+Refer to [_DOTE_'s help guide](https://bigsoftvideo.github.io/DOTE/install.html) for more information.
 
 ### _DOTEbase_ license key
 
