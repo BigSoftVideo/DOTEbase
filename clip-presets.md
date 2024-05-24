@@ -50,7 +50,7 @@ If you have saved one or more Clip Presets, then they are available to apply eve
 
 ### Deleting a Clip Preset
 
-1. To delete a Preset, open a Cip or create a dummy clip.
+1. To delete a Preset, open an existing Clip or create a dummy Clip.
 2. Select the Apply Preset drop-down menu.
 3. In the list, you will see a list of Presets ordered by reverse creation date.
 4. Click the Delete icon to remove the Preset(s).
@@ -69,8 +69,8 @@ Here are some tips:
 
 - To create a new Preset without creating a Clip, one could create a dummy Clip and tweak the meta-data, then save as new Preset.
 The dummy clip can be cancelled.
-- One could create a set of Clip Presets that one uses often to quickly assign the correct meta-data and style to a new Clip.
-- One could also create a set of Clip Presets that can be applied one after another.
-This is useful when there are different collections of elements that could be applicable, eg. one could apply the correct Preset for Tags only, followed by the correct Preset for Highlight colour.
+- A basic strategy is to create a set of Clip Presets that one uses often to quickly assign the correct meta-data and style to a new Clip.
+- One could also create a set of Clip Presets that can be applied one after another to fill out specific elements of the style and meta-data in sequence.
+This is useful when there are different collections of elements that could be applicable, eg. one could apply the desired Preset for Tags only, followed by the desired Preset for Annotation style and colour only.
 This gives more flexibility with fewer Presets.
-- Note that Highlight and Background elements in a Preset save the status of the colour, ie. is it toggled on or off.
+- Note that Annotation style and Background elements in a Preset save the status of the colour, ie. is it toggled on or off.
