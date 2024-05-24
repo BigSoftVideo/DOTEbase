@@ -8,16 +8,16 @@ Clip Presets can be created for [Transcript Clips](transcript-clip.md) and [Medi
 Saved Clip Presets indicate which of five style and meta-data elements have been saved:
 1. Tags (TAGS) - all tags are saved when a Preset is created
 2. Annnotation (ANNO) - the annotation text field is saved when a Preset is created
-3. Annotation Colour (ANNO COL) - the status and value of the Visual Style + Highlight colour is saved when a Preset is created
+3. Annotation Colour (ANNO COL) - the status and value of the annotation visual style + colour is saved when a Preset is created
 4. Background (BKG) - the status and value of the Background colour is saved when a Preset is created
 5. User-defined Field (UDF) - all user-defined fields are saved when a Preset is created
 
 [![Clip Presets](images/clips/clip-presets.png)](images/clips/clip-presets.png)
 
 The fundamental principle of Clip Presets is that they are applied on top (overlay) of the current Clip's style and meta-data.
-Thus, if a Clip Preset has a specific value saved, then it will overwrite the value in the current Clip.
-However, if a Clip Preset does not have a specific value saved, then the current value in the Clip will not be replaced.
-For example, if a Clip Preset has a specific Highlight (eg. Annotation Colour + status and Visual Style) saved, but not a Background Colour, then the Visual Style and Annotation Colour (and status) will be applied, but the Background Colour will not.
+Thus, if a Clip Preset has a specific value saved, then it will overwrite the value(s) in the current Clip.
+However, if a Clip Preset does not have a specific value(s) saved for an element, then the current value of that element in the Clip will not be replaced.
+For example, if a Clip Preset has a specific Annotation Colour + status and Visual Style saved, but not a Background Colour + status, then the Visual Style and Annotation Colour (and status) will be overwritten, but the Background Colour + status will not.
 
 ### Creating A Clip Preset
 
