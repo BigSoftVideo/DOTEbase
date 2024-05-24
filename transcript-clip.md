@@ -25,6 +25,10 @@ If a Transcript is open in _DOTE_, then T-Clips in that Transcript cannot be edi
 _DOTE_ locks the Transcript for editing.
 If _DOTE_ is closed or a different Transcript is opened, then the Transcript is released and can be edited again in _DOTEbase_.
 
+#### Applying a Clip Preset
+
+See [Clip Presets](clip-presets.md) for more information.
+
 ### Editing and deleting Transcript Clips
 
 T-clips can be edited and deleted.

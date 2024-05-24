@@ -47,6 +47,11 @@ One _cannot_ search across ALL DOTEspaces.
 
 The [Clips Viewer](clips-viewer.md) can show [Transcript and Media Clips](clips.md) in the current _DOTE_ Project that is open in _DOTEbase_, and it can broaden the scope to list all clips in selected Projects and Transcripts in or more DOTEspaces.
 
+## Clip Presets
+
+Saved [Clip Presets](clip-presets.md) are only available in the DOTEspace in which they were saved.
+They cannot be transferred to other DOTEspaces.
+
 ### Collections Browser
 
 The [Collections Browser](collections-browser.md) shows all [Clip Collections](clip-collections.md) across all DOTEspaces.

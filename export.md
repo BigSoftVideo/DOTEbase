@@ -11,6 +11,7 @@ An exported DOTEspace can be imported into DOTEbase by another user.
 The default is ALL.
     - You can also choose to include/exclude Checkpoints and AutoBackups associated with each Transcript (see _DOTE_ for more details).
     - You can also select to export the Canvas and Clip Collections.
+    - You can also select to include/exclude saved Clip Presets.
 1. Select `Browse` to find a location for the archive file to be generated.
 2. Select `Export` and choose a filename.
 
@@ -35,4 +36,4 @@ If this concerns you, then encrypt the DOTEspace export file using your preferre
 1. You can also select if you wish to import the Canvas and Clip Collections as well.
 1. Select the location on your file system that you would like the DOTEspace to be unpacked.
 1. Enter a unique name for the imported DOTEspace.
-1. The DOTEspace will be added to your list of DOTEspaces.
+1. The DOTEspace will be added to your list of DOTEspaces in the DOTEspaces panel.

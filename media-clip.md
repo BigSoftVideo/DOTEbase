@@ -17,6 +17,10 @@ You may wish to adjust the waveform zoom to get a more accurate selection.
 You will need to add [Tags](tags.md) and [Comments](comments.md) if relevant.
 You may also wish to select a current or create a new Tier on which to place the Clip.
 
+#### Applying a Clip Preset
+
+See [Clip Presets](clip-presets.md) for more information.
+
 ### Editing a Media Clip
 
 Media Clips can be edited by two methods:
