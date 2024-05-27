@@ -1,4 +1,4 @@
-## Help guide for _DOTEbase_ beta release v1.0.0-beta-3
+## Help guide for _DOTEbase_ `v1.0.0`
 
 This help guide provides you with instructions to get started with basic and more advanced tasks...
 
