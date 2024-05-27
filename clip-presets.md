@@ -5,6 +5,8 @@ This should speed up your workflow and allow you to focus on qualitative analysi
 
 Clip Presets can be created for [Transcript Clips](transcript-clip.md) and [Media Clips](media-clip.md), though they can be applied universally to both Clip types in a DOTEspace.
 
+### What do Clip Presets save?
+
 Saved Clip Presets indicate which of five style and meta-data elements have been saved:
 1. Tags (TAGS) - all tags are saved when a Preset is created
 2. Annnotation (ANNO) - the annotation text field is saved when a Preset is created
@@ -15,13 +17,13 @@ Saved Clip Presets indicate which of five style and meta-data elements have been
 [![Clip Presets](images/clips/clip-presets.png)](images/clips/clip-presets.png)
 
 The fundamental principle of Clip Presets is that they are applied on top (overlay) of the current Clip's style and meta-data.
-Thus, if a Clip Preset has a specific value saved, then it will overwrite the value(s) in the current Clip.
+Thus, if a Clip Preset has a specific value(s) saved, then when it is applied, it will overwrite the value(s) in the current Clip.
 However, if a Clip Preset does not have a specific value(s) saved for an element, then the current value of that element in the Clip will not be replaced.
-For example, if a Clip Preset has a specific Annotation Colour + status and Visual Style saved, but not a Background Colour + status, then the Visual Style and Annotation Colour (and status) will be overwritten, but the Background Colour + status will not.
+For example, if a Clip Preset has a specific Visual Style + Annotation Colour + status saved, but not a Background Colour + status, then the Visual Style and Annotation Colour (and status) will be overwritten, but the Background Colour + status will not.
 
 ### Creating A Clip Preset
 
-At the top of the Clip dialog box is a section for Clip Presets.
+At the top of either the Media Clip or Transcript Clip dialog box is a section for Clip Presets.
 
 [![Clip Presets](images/clips/clip-presets2.png)](images/clips/clip-presets2.png)
 
@@ -59,8 +61,12 @@ Note that deleted Presets are not recoverable and that deleting them does not af
 
 ### Editing a Clip Preset
 
-To edit a clip, one could create a dummy Clip, apply the Preset to be edited, tweak the meta-data and then save as new Preset.
+It is not possible to directly edit an already saved Clip Preset.
+There are indirect ways to achieve this goal:
+- One can simply delete the Preset and create a new one with the same name but with the new/edited elements.
+- One can also create a dummy Clip, apply the Preset to be edited, tweak the meta-data and then save as new Preset.
 The original Preset can be deleted.
+
 This is clumsy, but at present there is no Clip Preset Manager implemented.
 
 ### Strategies for using Clips Presets efficiently
@@ -74,3 +80,4 @@ The dummy clip can be cancelled.
 This is useful when there are different collections of elements that could be applicable, eg. one could apply the desired Preset for Tags only, followed by the desired Preset for Annotation style and colour only.
 This gives more flexibility with fewer Presets.
 - Note that Annotation style and Background elements in a Preset save the status of the colour, ie. is it toggled on or off.
+- Unlike [Colour Swatch Presets](colour-manager.md), Clip Presets are applied once only and forgotten; they are _NOT_ styles that can be associated with Clips in which all changes to the Style apply to all Clips with that style.
