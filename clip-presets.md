@@ -81,3 +81,4 @@ This is useful when there are different collections of elements that could be ap
 This gives more flexibility with fewer Presets.
 - Note that Annotation style and Background elements in a Preset save the status of the colour, ie. is it toggled on or off.
 - Unlike [Colour Swatch Presets](colour-manager.md), Clip Presets are applied once only and forgotten; they are _NOT_ styles that can be associated with Clips in which all changes to the Style apply to all Clips with that style.
+- Clip Presets are _not_ available when making Transcript Clips in _DOTE_.
