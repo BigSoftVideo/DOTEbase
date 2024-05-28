@@ -52,5 +52,8 @@ There are roughly 50 [Transcript Clips](transcript-clip.md) and 15 [Media Clips]
 Included in the Demo is a small set of [Clip Collections and Sub-Collections](clip-collections.md), which each contain some Media and Transcript Clips.
 Note that parent Collections contain all the Clips of Sub-Collections, yet the parent can contain clips that are not in the Sub-Collections.
 
+Included in the Demo are several [Colour Swatch Presets](colour-manager.md) and some [Clip Presets](clip-presets.md).
+These are available when creating/editing a Clip.
+
 Also included is a [Canvas](canvas.md) populated with Clips and Connectors, boxes, shapes, etc.
 We recommend that you import it, too.
