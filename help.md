@@ -7,7 +7,7 @@ This help guide provides you with instructions to get started with basic and mor
 _DOTEbase_ can be installed on the Microsoft Windows and Apple macOS desktop platforms.
 
 - Please follow the [instructions to install, update or upgrade](install.md).
-- You will also need to update _DOTE_ to use a beta release that integrates with _DOTEbase_.
+- You will also need to update _DOTE_ so that it integrates with _DOTEbase_.
 
 ### Import the Lego demo DOTEspace
 

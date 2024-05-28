@@ -1,5 +1,5 @@
 ## Video tutorials
 
-There are many video tutorials available on YouTube (unlisted for the beta release).
+There are many video tutorials available on [YouTube]().
 
 We will be adding more tutorials over time.
