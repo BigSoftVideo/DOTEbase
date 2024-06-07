@@ -13,7 +13,8 @@ In the Search panel, there is a fundamental distinction made between a Search Te
 The former searches only for those Targets that are specified in the Search Term(s).
 The latter searches for everything in those Targets that is NOT specified in the Search Term(s), ie. it excludes them and therefore acts like a NOT.
 
-Searches can be limited in their scope:
+The scope of all Searches must be specified at the top of the Search panel.
+This means that the Search will be restricted to the following objects in the DOTEbase universe:
 
 - Selected - Only search in those [DOTEspaces](dotespace.md), [Projects](dote.md) and [Transcripts](transcript.md) selected in the DOTEspaces panel
 - Active Transcript - Only search in the active Transcript
@@ -27,19 +28,25 @@ First, a Search Term must be added and a Target for the search chosen.
 
 [![Searching](images/search/search-simple.png)](images/search/search-simple.png)
 
+1. Add a new Search Term using the `Add Search Term` button.
+2. Choose a Target.
 The possible Targets include Transcripts, Tags, Annotations, User-Defined Fields (UDFs).
 Once one of these Targets is chosen, more specific criteria for the search can be entered.
 
-One can start a search straightaway...
+One can start a search straightaway by typing or selecting the Target...
 
-1. Type the search term as a string of characters in the box.
+1. Type the search Target as a string of characters in the box.
 2. Press ENTER or TAB and it will be added.
-3. You can add more than one search term string.
-4. Click the Search button and the results of the Search will be shown and colour-coded.
-    - One can view the Transcript or Media Clip in context by clicking the view icon on each result.
+3. You can add more than one search Target string.
+4. Click the Search button and the results of the Search will be displayed with icon/colour-coded entries.
+    - One can view a Transcript or Media Clip in context by clicking the view icon on each result.
     - Such Clips can be edited using the pencil icon.
-    - For text found in transcripts, one can click on the line displayed to see a larger 5-line context.
+    - For text found in transcripts, one can click on the line displayed to see a larger 5-line context in a pop-up box.
 Or one can click the view icon to see the complete context in the active Transcript panel, in which the search string is highlighted.
+
+When a Search is complete, the user can remove it by clicking the button `Clear All Terms`.
+The Search Terms and the Results will be cleared.
+There is no undo or save search functionality.
 
 #### Extra criteria in a Search Term
 
@@ -56,6 +63,10 @@ There are a range of options for a Search Term:
 
 The main Target of a Search Term can be specified in more detail.
 
+If there is more than one Target, then there is the option to conjoin them with the logical operator AND or OR.
+With AND, all Targets must be found for a successful result; with OR, the presence of any of the Targets is a successful result.
+eg. if the Tags "gesture" and "point" are conjoined with AND, then both must be found in a Clip; however, if they are conjoined with OR, then any Clip that has "gesture" or "point" (or both) will be a result.
+
 #### Specifying the Transcript Target
 
 For a fuller understanding of some of these choices, take a look at the _DOTE_ help guide on transcription and subtiers.
@@ -71,6 +82,8 @@ For a fuller understanding of some of these choices, take a look at the _DOTE_ h
 Just enter them as one continuous string of characters with no spaces (eg. `:[]*><°`).
 This is very useful when searching for a lexical item that may include non lexical characters, eg. ":" or "[" or "]".
 Thus, one can search for all instances of a word even though it may have one or more instances of colon (":") in it, eg. "yes", "ye:s" and "ye:::s" would all be found.
+A few combinations are offered in a drop-down menu.
+The suggestions cannot be edited, but if selected, then the string can be edited by the user.
 
 For example, one could search across transcripts in an active DOTEspace to find a specific lexical item and its variants ("yes", "YES", "ye:s" or "Ye::::s") in a Translation Subtier (see example below).
 
@@ -97,15 +110,29 @@ There are two options:
 - Search in Names
 - Search in Values
 
+### Filters
+
+Any Search Term (or criteria) can be turned into a Filter.
+A Filter is equivalent to the logical operator NOT.
+Thus, if a single Search Term is flipped into a Filter, then the results of the Search will include everything in a Search Term that is NOT found by searching for the entries etc.
+
+Note that the whole Search Term can become a Filter, and the specific searchable items or criteria can become a Filter.
+
 ### Rich search
 
-_DOTEbase_ provides a powerful search engine that allows the user to narrow down searches. Not only can all the Transcripts in a DOTEspace be searched simultaneously, so can clips and their meta-data.
+_DOTEbase_ provides a powerful search engine that allows the user to narrow down searches.
+Not only can all the Transcripts in a DOTEspace be searched simultaneously, so can clips and their meta-data.
 
 #### Adding criteria to a Search Term
 
+One can add specific criteria to a Search Term to narrow down/filter a search.
+A criteria that is added to a specific Search Term is equivalent to the logical operator AND.
+
 #### Multiple Search/Filter targets
 
-One can add multiple targets to a single search and combine them with boolean operators AND, OR and NOT.
+One can add multiple targets to a single search and combine them, which are combined with the logical operator OR.
+Thus, a search for more than one Search Term will show all add up the results that match each Search Term (removing any duplicates).
+If there is a filter (NOT), then the filter will be applied at the end to filter from the positive results.
 
 ### Multiple searches
 
