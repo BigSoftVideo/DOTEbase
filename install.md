@@ -73,9 +73,9 @@ _DOTEbase_ relies on _DOTE_ to create audio waveforms when a project/transcript 
 
 Refer to [_DOTE_'s help guide](https://bigsoftvideo.github.io/DOTE/install.html) for more information.
 
-### _DOTEbase_ license key
+### License key to activate _DOTEbase_
 
-You will need to purchase and enter a _DOTE Pro/Pro Community_ [license key](https://bigsoftvideo.github.io/DOTE/pro.html#license) to unlock _DOTEbase_.
+You will need to purchase and activate a PRO/PRO COMMUNITY [license key](https://www.dote.aau.dk) to unlock _DOTEbase_.
 _DOTEbase_ does not have its own license key.
 
 Follow the [activation instructions](license-activation.md) for _DOTEbase_.

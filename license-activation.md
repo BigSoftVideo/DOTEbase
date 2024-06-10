@@ -1,19 +1,19 @@
 ## __DOTEbase_ license activation
 
-Because _DOTEbase_ is included for free with the purchase of a _DOTE_ license, the same license is used to activate _DOTEbase_ after it has been installed.
+_DOTEbase_ activated with a PRO or PRO COMMUNITY Edition license, the same license is used to activate _DOTE_.
 
-Such a license is granted for access to the current release version of _DOTE Pro_, including hotfixes and minor updates (eg. from `v1.1` to `v1.2`).
+Such a license is granted for access to the current released version of _DOTEbase_, including hotfixes and minor updates (eg. from `v1.1` to `v1.2`).
 With each new major release (eg. from `v1` to `v2`), a new license or an upgrade is required.
 
-Go to our [WEBSHOP](https://www.dote.aau.dk) to purchase a _DOTE_ license and read more information about Editions.
+Go to our [WEBSHOP](https://www.dote.aau.dk) to purchase a license and read more information about Editions.
 
 ### DOTEbase license installation <a id='license'></a>
 
 To unlock _DOTEbase_, you will have to do the following:
 
-1. If you haven't already done so, [purchase a _DOTE Pro_ or _Pro Community_ license](https://www.dote.aau.dk/license-compare).
+1. If you haven't already done so, [purchase a license](https://www.dote.aau.dk/license-compare).
 2. You will receive the license key in an email message.
-3. Download the license key file to your computer on which you have installed the latest version of _DOTEbase_ (free).
+3. Download the license key file to your computer on which you have installed the latest version of _DOTEbase_.
 4. From the `Help` menu, select `License Manager`.
 5. Select `Upload from File` and browse for the license key file on your computer and select it.
 6. Click `Activate License`.
@@ -26,9 +26,10 @@ And the name associated with the license will appear in the title bar of the app
 
 #### Notes
 
-- One _DOTE_ license can unlock _DOTEbase_ on the same or another computer (device) owned by that user.
-- The same license file is used to unlock an extra device attached to your _DOTE_ license.
-- Normally, Pro and Pro Community users are allowed to install _DOTE_ on up to 3 devices.
+- One license can unlock _DOTEbase_ on the same or another computer (device) owned by that user.
+- The same license file is used to unlock an extra device assigned to your license (3 slots).
+Remember that _DOTE_ and _DOTEbase_ activation share the same license, and each takes up one slot.
+- Normally, PRO and PRO COMMUNITY Edition users are allowed to install software on up to 3 devices.
 _DOTEbase_ will take one of those device slots.
 - If all three license slots are full, then one slot will have to be released so that _DOTEbase_ can receive that free slot.
 You can release a device that has a license key already installed.
