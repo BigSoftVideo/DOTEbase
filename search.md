@@ -1,8 +1,8 @@
 ## Searching DOTEspaces
 
 The Search panel allows the user to search across all Transcripts and Clips within the scope of a Transcript, Project, DOTEspace or all DOTEspaces.
-Search targets and parameters can be easily combined to enable searches combining AND, OR and NOT.  
-Multiple Search panels can be opened to conduct multiple Searches at the same time.
+Search targets and parameters can be easily combined to enable searches combining AND, OR and NOT.
+In addition, multiple Search panels can be opened to conduct multiple Searches at the same time.
 
 [![Searching](images/search/search1.png)](images/search/search1.png)
 
@@ -12,8 +12,10 @@ The Search panel is designed to make this easy to use without resorting to regul
 
 In the Search panel, a fundamental distinction is made between a Search Term and a Filter Term.
 The former searches only for those Targets that are specified in the Search Term(s).
-The latter filters out everything in a Target that matches the Target, ie. it excludes them and therefore acts like a NOT.
-For example, SEARCH for Clips with the "GESTURE" Tag, but FILTER out Clips that contain the "POINT" Tag.
+The latter filters out everything in the Search results that matches the Target, ie. it excludes them and therefore acts like a NOT.
+For example, SEARCHing for Clips with the "GESTURE" Tag, but FILTERing out Clips that contain the "POINT" Tag, will show all Clips that contain the "GESTURE" tag _and_ do not contain the "BLOCKS" tag.
+
+[![Searching for tags](images/search/search4.png)](images/search/search4.png)
 
 Note that the scope of all Searches must be specified at the top of the Search panel.
 This means that the Search will be restricted to the following objects in the DOTEbase universe:
