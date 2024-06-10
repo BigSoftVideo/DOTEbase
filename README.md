@@ -28,11 +28,11 @@ It has been designed by qualitative researchers in discourse studies and social 
 
 ### How do I try _DOTEbase_?
 
-If you purchase _DOTE_, then _DOTEbase_ is free.
-If you have already purchased _DOTE_ before _DOTEbase_ was released, then it is free.
-_DOTEbase_ is a standalone software package, but it relies entirely on _DOTE_ for organising audio-visual media and transcripts.
+To use _DOTEbase_ you need to purchase an Edition license.
+If you have already purchased an Edition license for _DOTE_ before _DOTEbase_ was released, then you can use the same license at no extra cost.
+_DOTEbase_ is a standalone software package, but it relies on _DOTE_ to organise audio-visual media and transcripts in Projects.
 
-See the instructions to register _DOTEbase_ using your _DOTE_ [license](license-activation.md).
+See the instructions to register _DOTEbase_ using your Edition [license](license-activation.md).
 
 [![Canvas](images/canvas/canvas-example2.png)](images/canvas/canvas-example2.png)
 
