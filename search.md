@@ -7,16 +7,18 @@ Multiple Search panels can be opened to conduct multiple Searches at the same ti
 [![Searching](images/search/search1.png)](images/search/search1.png)
 
 Searching requires one or more Targets, with further specification of criteria within the Target.
-More advanced searching can combine Search Terms with AND, OR and NOT.
+More advanced searching can, in effect, combine Search Terms and Criteria with the logical operators AND, OR and NOT.
+The Search panel is designed to make this easy to use without resorting to regular expressions (RegEx) and complex nomenclature for combining logical operations.
 
-In the Search panel, there is a fundamental distinction made between a Search Term and a Filter Term.
+In the Search panel, a fundamental distinction is made between a Search Term and a Filter Term.
 The former searches only for those Targets that are specified in the Search Term(s).
-The latter searches for everything in those Targets that is NOT specified in the Search Term(s), ie. it excludes them and therefore acts like a NOT.
+The latter filters out everything in a Target that matches the Target, ie. it excludes them and therefore acts like a NOT.
+For example, SEARCH for Clips with the "GESTURE" Tag, but FILTER out Clips that contain the "POINT" Tag.
 
-The scope of all Searches must be specified at the top of the Search panel.
+Note that the scope of all Searches must be specified at the top of the Search panel.
 This means that the Search will be restricted to the following objects in the DOTEbase universe:
 
-- Selected - Only search in those [DOTEspaces](dotespace.md), [Projects](dote.md) and [Transcripts](transcript.md) selected in the DOTEspaces panel
+- Selected - Only search in those [DOTEspaces](dotespace.md), [Projects](dote.md) and [Transcripts](transcript.md) selected in the [DOTEspaces](dotespace.md) panel
 - Active Transcript - Only search in the active Transcript
 - Active Project - Only search for Media Clips in the active Project
 - Active DOTEspace - Only search in the active DOTEspace. This is the default.
@@ -132,7 +134,7 @@ A criteria that is added to a specific Search Term is equivalent to the logical 
 
 One can add multiple targets to a single search and combine them, which are combined with the logical operator OR.
 Thus, a search for more than one Search Term will show all add up the results that match each Search Term (removing any duplicates).
-If there is a filter (NOT), then the filter will be applied at the end to filter from the positive results.
+If there is a filter (NOT), then the filter will be applied at the end to filter from the positive results of the Search.
 
 ### Multiple searches
 
