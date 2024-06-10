@@ -1,4 +1,4 @@
-## __DOTEbase_ license activation
+## Activating _DOTEbase_
 
 _DOTEbase_ activated with a PRO or PRO COMMUNITY Edition license, the same license is used to activate _DOTE_.
 
@@ -7,7 +7,7 @@ With each new major release (eg. from `v1` to `v2`), a new license or an upgrade
 
 Go to our [WEBSHOP](https://www.dote.aau.dk) to purchase a license and read more information about Editions.
 
-### DOTEbase license installation <a id='license'></a>
+### _DOTEbase_ license activation <a id='license'></a>
 
 To unlock _DOTEbase_, you will have to do the following:
 
@@ -15,7 +15,7 @@ To unlock _DOTEbase_, you will have to do the following:
 2. You will receive the license key in an email message.
 3. Download the license key file to your computer on which you have installed the latest version of _DOTEbase_.
 4. From the `Help` menu, select `License Manager`.
-5. Select `Upload from File` and browse for the license key file on your computer and select it.
+5. Select `Select License Key from File` and browse for the license key file on your computer and select it.
 6. Click `Activate License`.
 _DOTEbase_ will check with the license server online.
 1. If the license file is registered, and there are unfilled device slots, then _DOTEbase_ will be unlocked.
