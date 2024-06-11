@@ -10,6 +10,11 @@ Searching requires one or more Targets, with further specification of criteria w
 More advanced searching can, in effect, combine Search Terms and Criteria with the logical operators AND, OR and NOT.
 The Search panel is designed to make this easy to use without resorting to regular expressions (RegEx) and complex nomenclature for combining logical operations.
 
+The Search results below are displayed after clicking the SEARCH button.
+The height of the Search Terms box can be adjusted using the horizontal slider.
+
+#### Search Terms vs Filter Terms
+
 In the Search panel, a fundamental distinction is made between a Search Term and a Filter Term.
 The former searches only for those Targets that are specified in the Search Term(s).
 The latter filters out everything in the Search results that matches the Target, ie. it excludes them and therefore acts like a NOT.
@@ -17,8 +22,14 @@ For example, SEARCHing for Clips with the "GESTURE" Tag, but FILTERing out Clips
 
 [![Searching for tags](images/search/search4.png)](images/search/search4.png)
 
-Note that the scope of all Searches must be specified at the top of the Search panel.
-This means that the Search will be restricted to the following objects in the DOTEbase universe:
+Note that a Filter is is applied either as a standalone Term or as a Criteria to filter out results from the parent Search Term.
+A Filter Term cannot be used on its own in a Search without any other Search Terms.
+In practice, the search concatenates all Search Term results, then filters out those results that match the Filter Term.
+
+#### Scope of a Search
+
+The scope of all Searches must be specified at the top of the Search panel.
+This means that the Search will be restricted to the following objects in the _DOTEbase_ universe:
 
 - Selected - Only search in those [DOTEspaces](dotespace.md), [Projects](dote.md) and [Transcripts](transcript.md) selected in the [DOTEspaces](dotespace.md) panel
 - Active Transcript - Only search in the active Transcript
@@ -72,6 +83,13 @@ With AND, all Targets must be found for a successful result; with OR, the presen
 eg. if the Tags "gesture" and "point" are conjoined with AND, then both must be found in a Clip; however, if they are conjoined with OR, then any Clip that has "gesture" or "point" (or both) will be a result.
 
 #### Specifying the Transcript Target
+
+The Transcript Target can be line-based and transcript-based.
+In the former case (`Lines`), the search engine scans each line in a transcript(s), and there is a positive hit if a line contains the Search Target.
+In the latter case (`Transcripts`), the search engine scans each transcript, and there is a positive hit if a transcript contains the Search Target.
+In both cases the lines with hits are returned, but in the latter case it only takes one positive hit for a transcript to be included in the results.
+The distinction is useful when applying Criteria to narrow down the search, ie. when each hit is within the scope of a line, then a Filter Criteria can be used to filter out lines that also contain the filter target in the same line.
+Whereas if a Filter Criteria is applied to the results on a Transcript context, then all that is required is for the filter target to be present in the same transcript and the hit will be filtered out.
 
 For a fuller understanding of some of these choices, take a look at the _DOTE_ help guide on transcription and subtiers.
 
