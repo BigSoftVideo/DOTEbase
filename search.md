@@ -11,6 +11,8 @@ More advanced searching can, in effect, combine Search Terms and Criteria with t
 The Search panel is designed to make this easy to use without resorting to regular expressions (RegEx) and complex nomenclature for combining logical operations.
 
 The Search results below are displayed after clicking the SEARCH button.
+The Search results are icon- and colour-coded to indicate the type of each hit, eg. Transcript, Transcript Clip, Media Clip.
+Each hit can be viewed in context by clicking the EYE icon.
 The height of the Search Terms box can be adjusted using the horizontal slider.
 
 #### Search Terms vs Filter Terms
@@ -18,13 +20,17 @@ The height of the Search Terms box can be adjusted using the horizontal slider.
 In the Search panel, a fundamental distinction is made between a Search Term and a Filter Term.
 The former searches only for those Targets that are specified in the Search Term(s).
 The latter filters out everything in the Search results that matches the Target, ie. it excludes them and therefore acts like a NOT.
-For example, SEARCHing for Clips with the "GESTURE" Tag, but FILTERing out Clips that contain the "POINT" Tag, will show all Clips that contain the "GESTURE" tag _and_ do not contain the "BLOCKS" tag.
+
+For example, SEARCHing for Clips with the "GESTURE" Tag, but FILTERing out Clips that contain the "BLOCKS" Tag, will show all Clips that contain the "GESTURE" tag _and_ do not contain the "BLOCKS" tag.
 
 [![Searching for tags](images/search/search4.png)](images/search/search4.png)
 
 Note that a Filter is is applied either as a standalone Term or as a Criteria to filter out results from the parent Search Term.
 A Filter Term cannot be used on its own in a Search without any other Search Terms.
 In practice, the search concatenates all Search Term results, then filters out those results that match the Filter Term.
+
+Note that it is _not_ possible at present to search for the plain absence of a Search Target, ie. find all transcript lines which do not contain a string of characters.
+One can only search for a positive presence and then filter out hits that match some Filter criteria or an additional Filter Search Term.
 
 #### Scope of a Search
 
@@ -91,7 +97,7 @@ In both cases the lines with hits are returned, but in the latter case it only t
 The distinction is useful when applying Criteria to narrow down the search, ie. when each hit is within the scope of a line, then a Filter Criteria can be used to filter out lines that also contain the filter target in the same line.
 Whereas if a Filter Criteria is applied to the results on a Transcript context, then all that is required is for the filter target to be present in the same transcript and the hit will be filtered out.
 
-For a fuller understanding of some of these choices, take a look at the _DOTE_ help guide on transcription and subtiers.
+For a fuller understanding of some of these choices, take a look at the _DOTE_ [help guide on transcription and subtiers](https://bigsoftvideo.github.io/DOTE/tiers.html).
 
 - Search in technical comments (//) (or omit such comments from search)
 - Search in all designated Speaker lines (or omit such lines from search)
