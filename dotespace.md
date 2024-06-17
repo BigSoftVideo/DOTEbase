@@ -36,6 +36,19 @@ The DOTEspace will be removed from the panel, including its watch folders.
 The DOTEspace configuration is not recoverable.
 Note that the data stored in those watch folders is NOT deleted, just the pointers to watch folders in the named DOTEspace.
 
+### Status of objects in the DOTEspace panel
+
+When a DOTEspace is created and a watch folder(s) added, then all Projects and Transcripts found in the watch folder(s) are listed.
+Each Project and Transcript can be be toggled AVAILABLE/UNAVAILABLE.
+This means that the Project and/or Transcript (and the associated clips) are no longer available to the _DOTEbase_ engine, eg. they are not listed in Collections Browser, Collection Viewer, Search, Tag Manager.
+
+When a Project and/or Transcript is viewed using the EYE icon, then it becomes ACTIVE.
+This means that the Project and/or Transcript (and associated clips) are viewable in the Transcript panel, the Clips Viewer and the Media Clips Organiser.
+They are viewable even if the Project and/or Transcript is toggled unavailable.
+
+When multiple DOTEspaces, Projects and/or Transcripts are clicked using `SHIFT` or `CTRL` on Windows (`SHIFT` or `OPTION` on Mac), then they become a SELECTED group.
+This means that the DOTEspaces, Projects and/or Transcripts in the selected group can be included in the scope of the Clips Viewer, Search and Tag Manager (selected DOTEspace only).
+
 ### Actions available in the DOTEspace panel
 
 The actions below are available for specific objects in the DOTEspace tree.
