@@ -54,6 +54,13 @@ When finished, export the Transcript and share it with the student, who can impo
 Transcript Clips are viewable (read only) even to users of the free Edition of _DOTE_.
 One might also make changes and edits to the transcript, but then [Checkpoints](https://bigsoftvideo.github.io/DOTE/versioncontrol.html) are a better way of tracking precise changes in _DOTE_ over time.
 
+### Making comments on other's data and transcripts in DOTEbase
+
+If both parties have an Edition license, then a use case is to add comments using Media Clips as well as Transcript Clips in _DOTEbase_.
+Just have the student(s) [export their DOTEspace](https://bigsoftvideo.github.io/DOTEbase/export.html) and share the exported file.
+Import the DOTEspace into DOTEbase and add as many [Media Clips](ttps://bigsoftvideo.github.io/DOTEbase/media-clip.html) and [Transcript Clips](https://bigsoftvideo.github.io/DOTEbase/transcript-clip.html) with tags and notes as you wish.
+When finished, export the DOTEspace and share it with the student, who can import it back into _DOTEbase_ as a new DOTEspace.
+
 ### Keeping track of students' transcripts in _DOTEbase_
 
 An extension of the previous strategy is to use _DOTEbase_ to keep track of all the [Transcript Clip](transcript-clip.md) notes made about a cohort of students' transcripts that were marked up in _DOTE_.
