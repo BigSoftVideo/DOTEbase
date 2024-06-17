@@ -40,8 +40,7 @@ The same tag names are available across all DOTEspaces.
 
 ### Search
 
-The default [Search](search.md) is across the current DOTEspace only.
-One _cannot_ search across ALL DOTEspaces.
+The scope of a [Search](search.md) can be selected by the user.
 
 ### Clips Viewer
 
