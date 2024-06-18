@@ -12,7 +12,7 @@ The Search panel is designed to make this easy to use without resorting to regul
 
 The Search results below are displayed after clicking the SEARCH button.
 The Search results are icon- and colour-coded to indicate the type of each hit, eg. Transcript, Transcript Clip, Media Clip.
-Each hit can be viewed in context by clicking the EYE icon.
+Each hit can be viewed in context by clicking the :eye: icon.
 The height of the Search Terms box can be adjusted using the horizontal slider.
 
 #### Search Terms vs Filter Terms

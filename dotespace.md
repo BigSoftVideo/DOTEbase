@@ -42,7 +42,7 @@ When a DOTEspace is created and a watch folder(s) added, then all Projects and T
 Each Project and Transcript can be be toggled AVAILABLE/UNAVAILABLE.
 This means that the Project and/or Transcript (and the associated clips) are no longer available to the _DOTEbase_ engine, eg. they are not listed, or listed as unavailable, in Collections Browser, Collection Viewer, Search, Tag Manager and Canvas.
 
-When a Project and/or Transcript is viewed using the EYE icon, then it becomes ACTIVE.
+When a Project and/or Transcript is viewed using the :eye: icon, then it becomes ACTIVE.
 This means that the Project and/or Transcript (and associated clips) are viewable (peekable) in the Transcript panel, the Clips Viewer and the Media Clips Organiser.
 They are viewable even if the Project and/or Transcript is toggled unavailable.
 
