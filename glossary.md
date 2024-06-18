@@ -7,17 +7,23 @@ Below is a list of key terms in alphabetical order with short definitions and li
 
 ### Active Media <a id='active-media'></a>
 
-When a media file or a transcript in a _DOTEspace_ are selected for display, then the media becomes active and is displayed in the [Media Player](#media-player) panel.
+When a media file or a transcript in a _DOTEspace_ are selected for viewing (:eye: icon), then the media becomes Active and is displayed in the [Media Player](#media-player) panel.
 
 ### Active Transcript <a id='active-transcript'></a>
 
 When a [Transcript panel](#transcript-panel) is set as Active, then when a new [Transcript](#transcript) is viewed that Transcript is displayed in the active transcript panel.
 Multiple transcript panels can be open at the same time, so one needs to select which one is currently Active.
-As a result, the others are unactivated.
+As a result, the others are deactivated.
 
 ### Annotation <a id='annotation'></a>
 
 An Annotation is a plain text note called a [Comment](#comment) about a specific [Clip](#clip).
+
+### Available
+
+In a [DOTEspace](dotespace.md), one can choose which Projects and Transcripts that are found by the crawler will be _Available_ :ballot_box_with_check: to the _DOTEbase_ engine.
+The default is available.
+When made unavailable, a Project and/or Transcript and its clips will no longer appear in Tag Manager, Collections, Searches and the Canvas.
 
 ### Cache <a id='cache'></a>
 
@@ -146,6 +152,11 @@ For example, [Search](#search) works over the current DOTEspace, yet the [Media 
 ### Search <a id='search'></a>
 
 _DOTEbase_ can [Search](search.md) in a DOTEspace for a text string in a variety of data/meta-data.
+
+### Select
+
+In the DOTEspace panel one can select more than one DOTEspace, Project and/or Transcript using `SHIFT` or `CTRL` (`SHIFT` or `OPTION` on macOS) and selecting the objects desired.
+This selected group can be used to restrict the scope in Search, Tag Manager and Canvas.
 
 ### Tag <a id='tag'></a>
 
