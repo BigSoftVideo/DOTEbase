@@ -10,6 +10,9 @@ Here you will find ideas and solutions to specific tasks that you might wish to 
 - [How do I backup my DOTEspace?](#tip5)
 - [How do I add a whole tier with media clips to the Canvas?](#tip6)
 - [What to do if you run out of devices when activating your paid license?](#tip7)
+- [How to determine which objects are being tracked live in different tools?]() (#tip9)
+- [How to track authorship of clips?]() (#tip10)
+- [Why add transcript clips in _DOTEbase_ and not in _DOTE_?]() (#tip11)
 
 ### Important things to note? <a id='tip1'></a>
 
@@ -86,3 +89,20 @@ One can Send individual Clips to the [Canvas](canvas.md), but there is also a wa
 If you have no more devices available on your license, then you may have to deactivate some of the devices for _DOTE_ and/or _DOTEbase_.
 _DOTE_ and _DOTEbase_ share the same license, and each uses one device per installation. Thus, installing both uses two devices from your quota.
 See [License Activation](license-activation.md) for more help.
+
+### How to determine which objects are being tracked live in different tools? <a id='tip9'></a>
+
+There is an indirect way to get some idea of what clips or tags are being tracked live by _DOTEbase_.
+If one makes a Project and/or Transcript unavailable in the [DOTEspace](dotespace.md) panel, then this will directly and immediately change what is displayed in [Tag Manager](tags.md), [Collections Browser](collections-browser.md), [Collection Viewer](collection-viewer.md), [Search](search.md) and [Canvas](canvas.md).
+Thus, one can determine visually which clips attached to a Project and/or Transcript are relevant to Tags, Collections, Searches or a Canvas with a specific [scope](scope.md).
+
+### How to track authorship of clips? <a id='tip10'></a>
+
+_DOTEbase_ does not support natively an authorship meta-data structure, but users can create their own using a user-defined field (UDF) when creating or editing a clip.
+If a user-defined field is created with `Name` set as "@author" and `Value` as the name or initials of the author and this is done consistently, then one can [Search](search.md) for this value of the named UDF to find all [Clips](clips.md) authored by `Value`.
+For example, a UDF with `Name`: "@author" and `Value`: "Jane Smith" would be searchable by selecting a UDF Search Target and searching for "@author" AND with a UDF criteria "Jane Smith" to narrow down.
+Just searching for "@author" would return all clips by all authors.
+
+### Why add transcript clips in _DOTEbase_ and not in _DOTE_? <a id='tip11'></a>
+
+One can add [Transcript Clips](transcript-clip.md) in _DOTE_, but there are more sophisticated tools for managing and organising [Tags](tags.md) and [Colour Swatches](colour-manager.md) in _DOTEbase_.
