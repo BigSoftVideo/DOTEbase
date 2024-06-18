@@ -10,9 +10,9 @@ Here you will find ideas and solutions to specific tasks that you might wish to 
 - [How do I backup my DOTEspace?](#tip5)
 - [How do I add a whole tier with media clips to the Canvas?](#tip6)
 - [What to do if you run out of devices when activating your paid license?](#tip7)
-- [How to determine which objects are being tracked live in different tools?]() (#tip9)
-- [How to track authorship of clips?]() (#tip10)
-- [Why add transcript clips in _DOTEbase_ and not in _DOTE_?]() (#tip11)
+- [How to determine which objects are being tracked live in different tools?](#tip9)
+- [How to track authorship of clips?](#tip10)
+- [Why add transcript clips in _DOTEbase_ and not in _DOTE_?](#tip11)
 
 ### Important things to note? <a id='tip1'></a>
 
@@ -100,7 +100,7 @@ Thus, one can determine visually which clips attached to a Project and/or Transc
 
 _DOTEbase_ does not support natively an authorship meta-data structure, but users can create their own using a user-defined field (UDF) when creating or editing a clip.
 If a user-defined field is created with `Name` set as "@author" and `Value` as the name or initials of the author and this is done consistently, then one can [Search](search.md) for this value of the named UDF to find all [Clips](clips.md) authored by `Value`.
-For example, a UDF with `Name`: "@author" and `Value`: "Jane Smith" would be searchable by selecting a UDF Search Target and searching for "@author" AND with a UDF criteria "Jane Smith" to narrow down.
+For example, a UDF with `Name`: "@author" and `Value`: "Jane Smith" would be searchable by selecting a `UDF` Search Target with the term "@author" PLUS `Add Criteria` with a `UDF` Search Target and a search term "Jane Smith" to narrow down.
 Just searching for "@author" would return all clips by all authors.
 
 ### Why add transcript clips in _DOTEbase_ and not in _DOTE_? <a id='tip11'></a>
