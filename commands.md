@@ -1,9 +1,8 @@
 ## Commands and shortcuts guide
 
-Below are two graphical guides to the many commands and shortcuts for _DOTEbase_.
-The first is a simple guide to the basic commands and shortcuts you need to get by.
-The second is a comprehensive guide to all the commands and shortcuts.
-You can use your browser to view them or download them.
+Below is a graphical guides to the many commands and shortcuts for _DOTEbase_.
+You can use your browser to view or download it.
+
 There may be divergences in how different operating systems (macOS versus Windows) or laptops deal with the mouse, function keys and keyboard shortcuts.
 For example, for Windows users, the modifier keys are <kbd>CTRL</kbd> and <kbd>ALT</kbd>.
 However, for macOS users, the equivalent modifier keys are <kbd>⌘</kbd> and <kbd>⌥</kbd>, but <kbd>CONTROL</kbd> is not used.
