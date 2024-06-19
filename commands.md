@@ -11,9 +11,6 @@ However, for macOS users, the equivalent modifier keys are <kbd>⌘</kbd> and <k
 For all users:
 - Function keys may require an extra keypress (eg. <kbd>FN</kbd>) on your laptop.
 - Scrolling on a touchpad using two fingers may be an alternative to a mouse scroll wheel.
-- Some shortcuts can be reassigned by the user.
-    - Choose `File ➔ Settings` to open [Settings](settings.md), then reassign by clicking on the key shortcut for the specific action and pressing the new shortcut key combination.
-    - eg. <kbd>CTRL</kbd>+<kbd>J</kbd> or <kbd>⌘</kbd>+<kbd>J</kbd> can be changed to another key combination.
 
 For macOS users:
 - For reference, here is a [guide to using <kbd>Right Click</kbd> on macOS](https://www.macworld.co.uk/how-to/mac/right-click-3610351/).
@@ -24,9 +21,3 @@ Let us know on Discord or on our GitHub repository if something is not working f
 ### Graphical guide for basic set <a id='commands'></a>
 
 [![Graphical guide for basic set](images/commands/guide1.png)](images/commands/guide1.png)
-
-### Graphical guide for complete set
-
-[![Graphical guide for complete set](images/commands/guide2.png)](images/commands/guide2.png)
-
-Higher quality PDFs of the [simple set](images/commands/guide1.pdf) and the [comprehensive set](images/commands/guide2.pdf) can be downloaded.

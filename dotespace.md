@@ -46,7 +46,7 @@ When a Project and/or Transcript is viewed using the :eye: icon, then it becomes
 This means that the Project and/or Transcript (and associated clips) are viewable (peekable) in the Transcript panel, the Clips Viewer and the Media Clips Organiser.
 They are viewable even if the Project and/or Transcript is toggled unavailable.
 
-When multiple DOTEspaces, Projects and/or Transcripts are clicked using `SHIFT` or `CTRL` on Windows (`SHIFT` or `OPTION` on Mac), then they become a SELECTED group.
+When multiple DOTEspaces, Projects and/or Transcripts are clicked using <kbd>SHIFT</kbd> or <kbd>CTRL</kbd> on Windows (<kbd>SHIFT</kbd> or <kbd>OPTION</kbd> on Mac), then they become a SELECTED group.
 This means that the DOTEspaces, Projects and/or Transcripts in the selected group can be included in the scope of the Clips Viewer, Search, Canvas and Tag Manager (selected DOTEspace only).
 
 ### Actions available in the DOTEspace panel

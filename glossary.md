@@ -155,7 +155,7 @@ _DOTEbase_ can [Search](search.md) in a DOTEspace for a text string in a variety
 
 ### Select
 
-In the DOTEspace panel one can select more than one DOTEspace, Project and/or Transcript using `SHIFT` or `CTRL` (`SHIFT` or `OPTION` on macOS) and selecting the objects desired.
+In the DOTEspace panel one can select more than one DOTEspace, Project and/or Transcript using <kbd>SHIFT</kbd> or <kbd>CTRL</kbd> (<kbd>SHIFT</kbd> or <kbd>OPTION</kbd> on macOS) and selecting the objects desired.
 This selected group can be used to restrict the scope in Search, Tag Manager and Canvas.
 
 ### Tag <a id='tag'></a>
