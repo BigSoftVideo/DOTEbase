@@ -105,4 +105,4 @@ Just searching for "@author" would return all clips by all authors.
 
 ### Why add transcript clips in _DOTEbase_ and not in _DOTE_? <a id='tip11'></a>
 
-One can add [Transcript Clips](transcript-clip.md) in _DOTE_, but there are more sophisticated tools for managing and organising [Tags](tags.md) and [Colour Swatches](colour-manager.md) in _DOTEbase_.
+One can add [Transcript Clips](transcript-clip.md) in _DOTE_, but there are more sophisticated tools in _DOTEbase_ for managing and organising [Tags](tags.md), [Clip Presets](clip-presets.md) and [Colour Swatches](colour-manager.md).
