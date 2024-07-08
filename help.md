@@ -1,4 +1,4 @@
-## Help guide for _DOTEbase_ `v1.0.0`
+## Help guide for _DOTEbase_ `v1.0.1`
 
 This help guide provides you with instructions to get started with basic and more advanced tasks...
 
