@@ -1,5 +1,7 @@
 ## How to use the Media Player
 
+Watch [video tutorial](https://www.youtube.com/watch?v=w8DEAE_azc8) on YouTube.
+
 The Media Player displays an audio-visual source for playback in _DOTEbase_.
 It is very similar to the [media player in _DOTE_](https://bigsoftvideo.github.io/DOTE/play.html).
 The video view will be resized to fit the panel.

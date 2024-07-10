@@ -1,5 +1,7 @@
 ## How to use the Lego Demo DOTEspace
 
+Watch [video tutorial](https://www.youtube.com/watch?v=SCAQFpx7ZdE) on YouTube.
+
 The Lego Demo DOTEspace is an artificial working DOTEspace designed to show off many of the features of _DOTEbase_.
 
 The Demo contains the original Lego Demo Project data, which can be downloaded for _DOTE_ separately.

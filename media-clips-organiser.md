@@ -1,5 +1,7 @@
 ## How to use the Media Clips Organiser
 
+Watch [video tutorial](https://www.youtube.com/watch?v=lfchHBD4PUM) on YouTube.
+
 Media Clips can be created and edited from the Media Clips Organiser panel.
 
 A key feature of the Media Clips Organiser is the ability to create Tiers to which Media Clips can be assigned.

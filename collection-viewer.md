@@ -1,5 +1,7 @@
 ## How to use the Collection Viewer
 
+Watch [video tutorial](https://www.youtube.com/watch?v=9syoogYN0kI) on YouTube.
+
 When a [Clip Collection](clip-collections.md) is selected in the [Collections Browser](collections-browser.md), the Collection Viewer lists all Clips in that Collection.
 
 [![Collection Viewer](images/collections/collection-viewer.png)](images/collections/collection-viewer.png)

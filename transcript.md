@@ -1,5 +1,7 @@
 ## Transcript panels
 
+Watch [video tutorial](https://www.youtube.com/watch?v=xO28bzpZAlU) on YouTube.
+
 A Transcript panel displays the currently open Transcript created in _DOTE_.
 Each Transcript panel displays a Transcript with line numbers as it was edited in _DOTE_.
 All the [sync-codes](https://bigsoftvideo.github.io/DOTE/sync-code.html) will be displayed, which index specific time-stamps in the media, thus tying the Transcript lines to the media source(s).

@@ -1,5 +1,7 @@
 ## Timeline and Waveform
 
+Watch [video tutorial](https://www.youtube.com/watch?v=pfFxI_FYrM8) on YouTube.
+
 The Timeline is very similar to that found in _DOTE_.
 Its job is to represent where in the media source the current [Media Player](media-player.md) playhead.
 It also is used to select a fragment (IN/OUT) for a [Media Clip](media-clip.md).

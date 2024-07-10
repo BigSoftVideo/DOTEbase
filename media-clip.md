@@ -1,5 +1,7 @@
 ## How to make Media Clips
 
+Watch [video tutorial](https://www.youtube.com/watch?v=KZdcYAR-CAw) on YouTube.
+
 Media Clips (or M-clips) are indexed between an IN and OUT point in a media source found in a _DOTE_ project in the current DOTEspace.
 Thus, it represents a fixed duration of a clip within a media source.
 

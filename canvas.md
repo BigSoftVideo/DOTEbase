@@ -1,5 +1,7 @@
 ## How to use the Canvas
 
+Watch [basic](https://www.youtube.com/watch?v=1LHk-Q9PpwM) and [advanced](https://www.youtube.com/watch?v=VTkImeZk1W0) video tutorials on YouTube.
+
 A 2D visual canvas is available for arranging and grouping your clips and their relationships.
 This is good for mind-mapping as a perspective or an analysis is developing while you are making clips from your DOTEspace.
 

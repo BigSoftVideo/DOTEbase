@@ -1,5 +1,7 @@
 ## How to use Clip Presets
 
+Watch [video tutorial]() on YouTube.
+
 Because one often repeatedly creates [Clips](clips.md) with a similar style and/or meta-data in a [DOTEspace](dotespace.md), then we offer Clip Presets that you can set up and apply when making a new Clip or editing an existing Clip.
 This should speed up your workflow and allow you to focus on qualitative analysis.
 

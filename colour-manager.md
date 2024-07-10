@@ -1,5 +1,7 @@
 ## Colour Swatch Manager
 
+Watch [video tutorial](https://www.youtube.com/watch?v=JByMzZQQT7E) on YouTube.
+
 The Colour Swatch Manager manages the Colours that are available in and across DOTEspaces in regard to Clips and Tiers.
 
 To open the Colour Swatch Manager, click on the colour swatch when editing a T-Clip or an M-Clip, or for a Tier in the Settings for the Media Clips Organiser.

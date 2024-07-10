@@ -1,5 +1,7 @@
 ## Searching DOTEspaces
 
+Watch [basic](https://www.youtube.com/watch?v=wNReahOkubg) and [advanced]() video tutorials on YouTube.
+
 The Search panel allows the user to search across all Transcripts and Clips within the scope of a Transcript, Project, DOTEspace or all DOTEspaces.
 Search targets and parameters can be easily combined to enable searches combining AND, OR and NOT.
 In addition, multiple Search panels can be opened to conduct multiple Searches at the same time.

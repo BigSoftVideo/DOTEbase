@@ -1,5 +1,7 @@
 ## What is new in _DOTE_?
 
+Watch [video tutorial](https://www.youtube.com/watch?v=x_HvKftJsQw) on YouTube.
+
 To be able to use _DOTEbase_, you must update _DOTE_ to at least v1.1.0+.
 
 The main changes are as follows:

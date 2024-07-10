@@ -1,5 +1,7 @@
 ## How to Tag your Clips
 
+Watch [basic](https://www.youtube.com/watch?v=UMl8ocvjA2k) and [advanced](https://www.youtube.com/watch?v=XILneBfDqAs) video tutorials on YouTube.
+
 Any Media Clip or Transcript Clip can have multiple Tags assigned to it.
 
 [![Tags](images/tags/tags1.png)](images/tags/tags1.png)

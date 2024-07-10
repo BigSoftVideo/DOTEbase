@@ -1,5 +1,7 @@
 ## How to make Transcript Clips
 
+Watch [video tutorial](https://www.youtube.com/watch?v=HPYFak345mo) on YouTube.
+
 Transcript Clips (or T-clips) can be created and edited in _DOTE_ and _DOTEbase_ provided you have purchased and activated the Pro or Pro Community Edition in both.
 
 [![Transcript Clips](images/clips/t-clips.png)](images/clips/t-clips.png)

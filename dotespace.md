@@ -1,5 +1,7 @@
 ## How to setup a DOTEspace
 
+Watch [video tutorial](https://www.youtube.com/watch?v=TMZhcpxemcU) on YouTube.
+
 Any number of DOTEspaces can be created using the DOTEspaces panel.
 Each DOTEspace is assigned one or more Watch Folders in which DOTE Projects and Transcripts are scanned and loaded as a snapshot into _DOTEbase_.
 Instead of creating a relational database containing all the Projects, Media, Transcripts, Clips, Tags etc in one place, the information is stored locally in each Project using transparent data structures.

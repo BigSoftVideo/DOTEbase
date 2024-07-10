@@ -1,5 +1,7 @@
 ## How to use DOTEbase
 
+Watch the [Introduction to Use Cases video tutorial]() on YouTube.
+
 There several classic ways that _DOTEbase_ can support working qualitatively with a corpus of audio-visual recordings and/or transcripts.
 
 ### Getting a grip on an audio-visual corpus of data recordings
@@ -68,3 +70,10 @@ A teacher can use _DOTEbase_ to create a [DOTEspace](dotespace.md) that includes
 Then they can search for patterns across all the students' work, and use it to present the students' work in class.
 For example, the teacher can have [multiple transcripts](transcript.md) open at the same time by different students and/or the teacher for comparison.
 And the teacher could [search Clips](search.md) for specific note comments they made and view the relevant transcript lines in every search result.
+
+### Adding written texts and documents to use in _DOTEbase_
+
+It is feasible to use _DOTE_ to create Projects with no media and a Transcript that formats a written document.
+If each document has its own Project OR a set of similar documents are contained in one Project, then _DOTEbase_ will find the documents if they are placed in a watch folder in a DOTEspace.
+The documents can be annotated using Transcript Clips with Tags, Comment, Style and User-defined Fields.
+Thus, one can mix Media, Transcripts and Documents in the same DOTEspace and use the powerful tools of Clipping, Tagging, Collections and Search to manage and analyse them together.

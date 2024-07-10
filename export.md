@@ -1,5 +1,7 @@
 ## Exporting and importing a DOTEspace
 
+Watch [video tutorial](https://www.youtube.com/watch?v=Z3l24d6muAo) on YouTube.
+
 A single DOTEspace can be exported and shared with others.
 
 An exported DOTEspace can be imported into DOTEbase by another user.
