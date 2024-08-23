@@ -13,6 +13,7 @@ Here you will find ideas and solutions to specific tasks that you might wish to 
 - [How to determine which objects are being tracked live in different tools?](#tip9)
 - [How to track authorship of clips?](#tip10)
 - [Why add transcript clips in _DOTEbase_ and not in _DOTE_?](#tip11)
+- [How do I start using _DOTEbase_ with lots of video and/or audio files?](#tip12)
 
 ### Important things to note? <a id='tip1'></a>
 
@@ -106,3 +107,14 @@ Just searching for "@author" would return all clips by all authors.
 ### Why add transcript clips in _DOTEbase_ and not in _DOTE_? <a id='tip11'></a>
 
 One can add [Transcript Clips](transcript-clip.md) in _DOTE_, but there are more sophisticated tools in _DOTEbase_ for managing and organising [Tags](tags.md), [Clip Presets](clip-presets.md) and [Colour Swatches](colour-manager.md).
+
+### How do I start using _DOTEbase_ with lots of video and/or audio files? <a id='tip12'></a>
+
+If you are starting from scratch and have not yet used _DOTE_ to [create Projects](https://bigsoftvideo.github.io/DOTE/projects.html) (and blank Transcripts) from a corpus of audio-visual data, then you need to prepare the data in a form that _DOTEbase_ understands.
+_DOTEbase_ cannot just work with raw video or audio files that are stored on your file system, for example grouped in one folder.
+It needs to generate meta-data locally and a place on your file system to store that meta-data so you can easily move, copy and share the Projects, Transcripts, Annotations, Clips, Canvas, etc. that you create.
+
+For each discrete event that has been recorded in audio-visual file(s), a _DOTE_ Project has to be created.
+Currently [Project creation has to be done in _DOTE_](https://bigsoftvideo.github.io/DOTE/projects.html#new-project).
+As long as the Project created (generating a copy of the media file(s) and a blank transcript, etc) is stored in one of the DOTEspace [watch folders](dotespace.md), it will automatically appear in the relevant DOTEspace in _DOTEbase_.
+We plan to implement a function to create Projects from media files directly in _DOTEbase_, and possibly a batch function that can do that for all media files in a folder based on the media filenames.
