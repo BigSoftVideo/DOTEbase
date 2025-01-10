@@ -1,6 +1,6 @@
 ## How to use DOTEbase
 
-Watch the [Introduction to Use Cases video tutorial]() on YouTube.
+Watch the [Introduction to Use Cases video tutorial](https://youtu.be/G-7N33zEF40) on YouTube.
 
 There several classic ways that _DOTEbase_ can support working qualitatively with a corpus of audio-visual recordings and/or transcripts.
 
